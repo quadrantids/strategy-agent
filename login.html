@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login — Strategy Agent</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: Inter, system-ui, sans-serif;
+            background: #f7f8fa;
+            color: #101820;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .login-card {
+            background: white;
+            border-radius: 16px;
+            padding: 40px;
+            width: min(420px, 90vw);
+            box-shadow: 0 4px 24px rgba(0,0,0,.06);
+            text-align: center;
+        }
+        .login-card img { height: 48px; margin-bottom: 20px; }
+        .login-card h1 { font-size: 22px; font-weight: 800; margin-bottom: 4px; }
+        .login-card .sub { color: #5a6577; font-size: 13px; margin-bottom: 28px; }
+        .login-card input {
+            width: 100%; padding: 12px 16px; border: 1px solid #e0e3e8; border-radius: 10px;
+            font-size: 15px; font-family: inherit; text-align: center; letter-spacing: 2px;
+        }
+        .login-card input:focus { outline: none; border-color: #192AEA; }
+        .login-card button {
+            width: 100%; padding: 12px; margin-top: 12px; background: #192AEA; border: none;
+            border-radius: 10px; color: white; font-weight: 800; font-size: 15px; cursor: pointer;
+        }
+        .login-card button:hover { filter: brightness(1.1); }
+        .login-card .error {
+            color: #dc2626; font-size: 13px; margin-top: 12px; display: none;
+        }
+        .login-card .footer {
+            margin-top: 24px; font-size: 11px; color: #9ca3b0; line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-card">
+        <img src="https://www.pbs.up.pt/wp-content/uploads/2025/08/PBS-LOGOMARCA-FP3L-VP-POLI-POSITIVO-RGB.svg" alt="PBS" onerror="this.style.display='none'">
+        <h1>Strategy Agent</h1>
+        <div class="sub">Executive MBA 2025/2026 — Prof. Luís Filipe Reis</div>
+        <form onsubmit="login(event)">
+            <input type="text" id="user" placeholder="Username" autofocus autocomplete="username" style="margin-bottom:8px">
+            <input type="password" id="pwd" placeholder="Password" autocomplete="current-password">
+            <button type="submit">Enter</button>
+        </form>
+        <div class="error" id="error">Invalid credentials</div>
+        <div class="footer">Group S2G1<br>Strategy Exam Agent</div>
+    </div>
+    <script>
+        async function login(e) {
+            e.preventDefault();
+            const user = document.getElementById('user').value;
+            const pwd = document.getElementById('pwd').value;
+            const resp = await fetch('/login', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({username: user, password: pwd}),
+            });
+            if (resp.ok) {
+                window.location.href = '/';
+            } else {
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('pwd').value = '';
+                document.getElementById('pwd').focus();
+            }
+        }
+    </script>
+</body>
+</html>

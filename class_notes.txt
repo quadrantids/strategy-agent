@@ -1,0 +1,3924 @@
+
+Apontamentos de Estratégia
+Executive MBA
+Américo Filipe dos Santos Dias
+Turma 2024/2025
+Professor: Luis Filipe Reis
+Março 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Conteúdo
+Conteúdo
+3
+1
+Aula 1 - Fundamentos da Estratégia
+4
+1.1
+Introdução e Apresentação . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+1.2
+Expectativas e Propósito da Disciplina . . . . . . . . . . . . . . . . . . . .
+5
+1.3
+Avaliação e Metodologia
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+1.4
+Bibliografia e Recomendações de Leitura . . . . . . . . . . . . . . . . . . .
+6
+1.5
+Conceitos Fundamentais de Estratégia
+. . . . . . . . . . . . . . . . . . . .
+7
+1.5.1
+Definições de Estratégia
+. . . . . . . . . . . . . . . . . . . . . . . .
+7
+1.5.2
+As Duas Perguntas Fundamentais da Estratégia . . . . . . . . . . .
+8
+1.6
+O Processo Estratégico . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+1.6.1
+Análise Situacional . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+1.6.2
+Definição de Objetivos e Estratégias . . . . . . . . . . . . . . . . . .
+10
+1.6.3
+Implementação
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10
+1.7
+Estratégia e Incerteza . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+1.8
+Níveis de Estratégia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+1.8.1
+Estratégia Corporativa . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+1.8.2
+Estratégia de Negócios . . . . . . . . . . . . . . . . . . . . . . . . .
+12
+1.8.3
+Estratégia Operacional . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+1.9
+Horizontes Estratégicos . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+1.9.1
+Horizonte 1 (H1): Defender e Proteger (Curto Prazo) . . . . . . . .
+14
+1.9.2
+Horizonte 2 (H2): Desenvolver (Médio Prazo)
+. . . . . . . . . . . .
+14
+1.9.3
+Horizonte 3 (H3): Semear (Longo Prazo) . . . . . . . . . . . . . . .
+15
+1.10 Gestão da Mudança e Cultura Organizacional . . . . . . . . . . . . . . . .
+16
+1.11 A Importância do Tempo na Estratégia . . . . . . . . . . . . . . . . . . . .
+17
+1.12 Foco no Cliente e Economia da Atenção
+. . . . . . . . . . . . . . . . . . .
+18
+1.13 Aspectos Financeiros da Estratégia . . . . . . . . . . . . . . . . . . . . . .
+19
+1.14 A Essência do Sucesso: Diferenciação . . . . . . . . . . . . . . . . . . . . .
+20
+1.15 Estratégia e Ética Empresarial . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+1.16 Estratégia e Propósito Organizacional . . . . . . . . . . . . . . . . . . . . .
+22
+1.17 A Natureza das Decisões Estratégicas . . . . . . . . . . . . . . . . . . . . .
+23
+1.18 Considerações Finais e Desafios Futuros
+. . . . . . . . . . . . . . . . . . .
+23
+Américo Dias
+3
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+2
+Aula 2 - Posição Estratégica
+25
+2.1
+Introdução à Posição Estratégica
+. . . . . . . . . . . . . . . . . . . . . . .
+25
+2.2
+O Desafio do Investimento Estratégico
+. . . . . . . . . . . . . . . . . . . .
+25
+2.3
+Análise de Tendências Macro e Micro . . . . . . . . . . . . . . . . . . . . .
+25
+2.3.1
+O Mundo VUCA . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+2.3.2
+Os 6 D’s da Transformação Digital
+. . . . . . . . . . . . . . . . . .
+26
+2.4
+Análise PESTEL e Indústria . . . . . . . . . . . . . . . . . . . . . . . . . .
+27
+2.5
+Análise da Indústria com Porter+ . . . . . . . . . . . . . . . . . . . . . . .
+28
+2.6
+Níveis de Concorrência . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+30
+2.7
+Capacidades Estratégicas . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+31
+2.8
+Avaliação de Recursos: O Modelo VRIN
+. . . . . . . . . . . . . . . . . . .
+32
+2.9
+Cultura Organizacional como Elemento Estratégico . . . . . . . . . . . . .
+32
+2.10 Conclusão e Ponte para a Próxima Aula
+. . . . . . . . . . . . . . . . . . .
+33
+3
+Aula 3 - Direção Estratégica
+35
+3.1
+Introdução à Direção Estratégica
+. . . . . . . . . . . . . . . . . . . . . . .
+35
+3.1.1
+Do Propósito à Estratégia . . . . . . . . . . . . . . . . . . . . . . .
+35
+3.2
+Etapas Intermediárias entre Posição e Direção Estratégica
+. . . . . . . . .
+35
+3.2.1
+Análise SWOT
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+35
+3.2.2
+Definição de Objetivos . . . . . . . . . . . . . . . . . . . . . . . . .
+36
+3.2.3
+Objetivos Leading e Lagging . . . . . . . . . . . . . . . . . . . . . .
+36
+3.2.4
+Alinhamento Organizacional . . . . . . . . . . . . . . . . . . . . . .
+37
+3.3
+Estratégias de Negócio (Business Strategies) . . . . . . . . . . . . . . . . .
+37
+3.3.1
+Where to Play? (Onde Jogar?)
+. . . . . . . . . . . . . . . . . . . .
+38
+3.3.2
+Right to Play? (Direito de Jogar?)
+. . . . . . . . . . . . . . . . . .
+38
+3.3.3
+How to Play? (Como Jogar?)
+. . . . . . . . . . . . . . . . . . . . .
+38
+3.3.4
+How to Play Differently? (Como Jogar Diferente?)
+. . . . . . . . .
+39
+3.3.5
+How to Play Along the Time? (Como Jogar ao Longo do Tempo?) .
+39
+3.4
+Ferramentas para Estratégias de Negócio . . . . . . . . . . . . . . . . . . .
+39
+3.4.1
+Matriz de Ashridge para Where to Play e Right to Play . . . . . . .
+39
+3.4.2
+Estratégias Genéricas de Porter para How to Play . . . . . . . . . .
+43
+3.4.3
+Value Curves para How to Play Differently . . . . . . . . . . . . . .
+44
+3.5
+Modelo de Negócio da Ryanair . . . . . . . . . . . . . . . . . . . . . . . . .
+45
+3.5.1
+Gestão de Ativos . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+46
+3.5.2
+Maximização de Receitas . . . . . . . . . . . . . . . . . . . . . . . .
+46
+Américo Dias
+4
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+3.5.3
+Redução de Custos . . . . . . . . . . . . . . . . . . . . . . . . . . .
+46
+3.6
+Conclusão e Próximos Passos
+. . . . . . . . . . . . . . . . . . . . . . . . .
+46
+4
+Aula 4 - Estratégias Corporativas e Portfólio
+48
+4.1
+Introdução às Estratégias Corporativas . . . . . . . . . . . . . . . . . . . .
+48
+4.2
+Estratégias Primárias: Transformação da Procura . . . . . . . . . . . . . .
+48
+4.2.1
+Fases da Estratégia Primária . . . . . . . . . . . . . . . . . . . . . .
+48
+4.2.2
+Caso de Estudo: O Mercado de Fraldas . . . . . . . . . . . . . . . .
+49
+4.3
+Estratégias Corporativas . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+49
+4.4
+Diversificação . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+4.4.1
+Tipos de Diversificação . . . . . . . . . . . . . . . . . . . . . . . . .
+50
+4.4.2
+Motivações para a Diversificação
+. . . . . . . . . . . . . . . . . . .
+51
+4.4.3
+Atividades que Acrescentam e Destroem Valor . . . . . . . . . . . .
+52
+4.5
+Avaliação de Conglomerados . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+4.5.1
+Métodos de Avaliação . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+4.5.2
+O Desconto de Conglomerado . . . . . . . . . . . . . . . . . . . . .
+53
+4.5.3
+Exemplos de Conglomerados . . . . . . . . . . . . . . . . . . . . . .
+53
+4.6
+Estratégias de Produto-Mercado . . . . . . . . . . . . . . . . . . . . . . . .
+53
+4.7
+Gestão de Portfólio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+4.7.1
+A Matriz BCG
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+4.7.2
+Fluxo de Dinheiro no Portfólio . . . . . . . . . . . . . . . . . . . . .
+56
+4.7.3
+Fluxo de Produtos
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+57
+4.7.4
+Perfil dos Gestores para Cada Categoria
+. . . . . . . . . . . . . . .
+57
+4.7.5
+Equilíbrio do Portfólio . . . . . . . . . . . . . . . . . . . . . . . . .
+58
+4.8
+Parenting (Como Ser um Bom "Pai"Corporativo)
+. . . . . . . . . . . . . .
+58
+4.9
+Reflexões Adicionais sobre Estratégia Corporativa . . . . . . . . . . . . . .
+60
+4.9.1
+Empreendedorismo versus Gestão . . . . . . . . . . . . . . . . . . .
+60
+4.10 Investimento Estratégico a Longo Prazo
+. . . . . . . . . . . . . . . . . . .
+61
+4.11 Aplicação Prática dos Conceitos . . . . . . . . . . . . . . . . . . . . . . . .
+61
+4.11.1 Caso Sonae
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61
+4.11.2 Caso Amazon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+62
+4.12 Implicações Práticas para a Gestão Estratégica
+. . . . . . . . . . . . . . .
+62
+4.12.1 Princípios para Gestão de Portfólio . . . . . . . . . . . . . . . . . .
+63
+4.12.2 Diretrizes para Centros Corporativos . . . . . . . . . . . . . . . . .
+63
+4.13 Conclusão da Aula 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+64
+Américo Dias
+5
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5
+Aula 5 - Internacionalização, Inovação e Fusões e Aquisições
+65
+5.1
+Introdução à Internacionalização . . . . . . . . . . . . . . . . . . . . . . . .
+65
+5.2
+Motivações para a Internacionalização
+. . . . . . . . . . . . . . . . . . . .
+65
+5.3
+Análise do Destino de Internacionalização
+. . . . . . . . . . . . . . . . . .
+66
+5.3.1
+As Quatro Dimensões do Modelo CAGE . . . . . . . . . . . . . . .
+66
+5.3.2
+O Framework 12C
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+67
+5.4
+Modos de Entrada em Mercados Internacionais . . . . . . . . . . . . . . . .
+68
+5.4.1
+Principais Modos de Entrada
+. . . . . . . . . . . . . . . . . . . . .
+68
+5.5
+Estratégias de Inovação . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+69
+5.5.1
+Curva de Adoção de Inovações . . . . . . . . . . . . . . . . . . . . .
+69
+5.6
+Dinâmica Competitiva e Estratégias de Aceleração . . . . . . . . . . . . . .
+71
+5.7
+Impacto Financeiro da Curva de Adoção . . . . . . . . . . . . . . . . . . .
+72
+5.7.1
+Ciclo de Vida do Produto e Estratégias de Investimento . . . . . . .
+72
+5.8
+Estratégias de Investimento em Marketing . . . . . . . . . . . . . . . . . .
+73
+5.8.1
+Revitalização de Produtos . . . . . . . . . . . . . . . . . . . . . . .
+74
+5.9
+Fusões e Aquisições . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+74
+5.9.1
+Tipos de Crescimento . . . . . . . . . . . . . . . . . . . . . . . . . .
+75
+5.9.2
+Diferença entre Fusão e Aquisição . . . . . . . . . . . . . . . . . . .
+75
+5.9.3
+Motivações para Fusões e Aquisições
+. . . . . . . . . . . . . . . . .
+76
+5.9.4
+Alianças Estratégicas como Alternativa . . . . . . . . . . . . . . . .
+76
+5.10 Estratégias Primárias e Secundárias . . . . . . . . . . . . . . . . . . . . . .
+77
+5.10.1 Exemplos de Estratégias Primárias . . . . . . . . . . . . . . . . . .
+78
+5.10.2 Exemplos de Estratégias Secundárias . . . . . . . . . . . . . . . . .
+78
+5.10.3 O Desafio do Equilíbrio entre Estratégias . . . . . . . . . . . . . . .
+79
+5.11 Revisão e Conclusão
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+80
+5.11.1 Key Learning Points . . . . . . . . . . . . . . . . . . . . . . . . . .
+80
+5.11.2 Estrutura do Exame
+. . . . . . . . . . . . . . . . . . . . . . . . . .
+80
+5.12 Reflexões Finais . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+81
+Américo Dias
+6
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1
+Aula 1 - Fundamentos da Estratégia
+1.1
+Introdução e Apresentação
+Luís Filipe Reis iniciou a aula apresentando-se à turma, compartilhando detalhes sobre
+sua formação académica e experiência profissional. Formado inicialmente em medicina,
+expandiu sua formação com MBA, mestrado em gestão e doutorado em economia. Sua
+carreira profissional é extremamente diversificada, tendo ocupado posições de liderança
+em várias áreas, incluindo finanças, saúde, retalho, telecomunicações e estratégia. Atual-
+mente, está envolvido em projetos relacionados a serviços financeiros e fusão bancária.
+"A minha perspectiva de dar aulas é uma perspectiva de aprender, aprender, de
+estar perante 50, 60, 70 pessoas, 30, 50, que têm experiências pessoais, têm co-
+nhecimentos, têm desafios, e eu estou aqui ao vosso serviço."
+O diagrama abaixo apresenta uma visão cronológica do seu percurso profissional e acadé-
+mico, ilustrando a riqueza e diversidade da sua experiência.
+1986
+1990
+1997
+2000
+2010
+2018
+2025
+Bial
+Group Product Manager
+1986-1989
+Modelo Continente
+Marketing Manager
+1990-1996
+Modelo Continente
+Executive Board Member
+1997-2001
+SonaeCom
+Executive Board Member
+IT & Telecomunicações
+2000-2009
+Sonae
+Chief Corporate Center Officer
+2010-2023
+Sonae S
+CEO Fashion
+2018-2023
+Universo
+CEO - Sonae/Bankinter
+2015-Presente
+PBS - Porto Business School
+Professor
+2000-2015
+FEP - U. Porto
+Professor Catedrático Convidado
+2011-Presente
+FEUP
+Professor Catedrático
+2021-Presente
+Formação Académica
+MBA e MSc, EGP-UPBS (1989-1992) PhD, Economics, Univ. Complutense Madrid (1994-1998)
+SEP, Stanford University (1998)
+Carreira Empresarial
+Carreira Académica
+Figura 1: Percurso profissional e académico de Luís Filipe Reis
+Valorizando a interação com os alunos, o professor destacou que cada aula representa uma
+oportunidade para aprendizagem mútua. Expressou interesse em conhecer as experiên-
+cias pessoais e profissionais dos estudantes, enfatizando que essa troca de conhecimentos
+enriquece significativamente o ambiente educacional.
+Incentivou a turma a participar
+ativamente, colocar questões e dar feedback construtivo para melhorar a qualidade do
+curso.
+Com uma trajetória profissional ampla, ocupou cargos de responsabilidade em marketing,
+operações, logística, telecomunicações e estratégia. Mencionou ter sido CEO de entida-
+des fundidas na área de telecomunicações e destacou a sua experiência no ensino e a
+sua paixão por artes. Este background diversificado permite-lhe trazer uma perspetiva
+multidisciplinar para as discussões sobre estratégia empresarial.
+Também referiu a sua participação em várias instituições e conselhos, reforçando a sua
+vasta experiência e ligações no mundo corporativo e académico. Demonstrou particular
+interesse em pensar estrategicamente sobre problemas complexos, aplicando abordagens
+interdisciplinares.
+Américo Dias
+7
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1.2
+Expectativas e Propósito da Disciplina
+Desde o início, as expectativas para o curso foram estabelecidas de forma clara e direta:
+"Eu não vos quero ensinar estratégias. Eu quero tentar ajudar-vos a pensar de
+forma estratégica."
+Esta afirmação estabelece o tom para toda a disciplina. O foco não está na memori-
+zação de teorias ou modelos específicos, mas no desenvolvimento de uma mentalidade
+estratégica aplicável em diferentes contextos profissionais. A disciplina tem como obje-
+tivo estimular o pensamento crítico e analítico, preparando os alunos para enfrentarem
+desafios empresariais complexos e em constante evolução.
+A estratégia envolve lidar com o desconhecido e a incerteza, não existindo uma fórmula
+única ou infalível. O propósito principal é desafiar os participantes a desenvolverem uma
+abordagem estratégica, explorando a sua capacidade analítica e criativa:
+"A única ferramenta que precisam de trazer é a cabeça."
+Esta perspetiva destaca a natureza intelectual e analítica da estratégia, em contraste com
+abordagens mais mecânicas ou baseadas em fórmulas. Foi enfatizado que, quanto mais se
+aprende sobre estratégia, mais se percebe o que ainda não se sabe:
+"Quanto mais sabemos, mais sabemos que não sabemos."
+Esta reflexão sobre os limites do conhecimento é particularmente relevante num campo
+tão dinâmico e contextual como a estratégia empresarial, onde as certezas são raras e a
+capacidade de adaptação é essencial.
+1.3
+Avaliação e Metodologia
+A avaliação da disciplina foi detalhadamente explicada, sendo composta por três compo-
+nentes principais que visam avaliar diferentes dimensões da compreensão e aplicação dos
+conceitos estratégicos:
+1. Exame Individual (60%)
+Esta componente consiste num exame baseado em casos práticos, realizado indivi-
+dualmente. O foco está na aplicação dos conceitos aprendidos em situações reais,
+testando a capacidade do aluno de analisar problemas estratégicos complexos e pro-
+por soluções fundamentadas. Este formato de avaliação reflete a natureza prática e
+aplicada da disciplina.
+2. Trabalho de Grupo (20%)
+O trabalho de grupo é um projeto colaborativo que envolve a escolha de um caso,
+a formulação de uma pergunta estratégica e o desenvolvimento de uma resposta
+fundamentada. Com um limite de 25 páginas, este trabalho deve ser entregue antes
+do exame final. Esta componente valoriza a capacidade de trabalhar em equipa e
+desenvolver análises estratégicas mais profundas e complexas.
+Américo Dias
+8
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+3. Key Learning Points/Class Plan (20%)
+Esta componente consiste num resumo individual dos principais pontos de aprendi-
+zagem de todas as aulas, acompanhado de uma reflexão pessoal sobre os conceitos
+discutidos. Este documento deve ser entregue até 3 de março e visa incentivar a
+reflexão contínua e a síntese dos conceitos abordados ao longo do curso.
+Foi destacado que a nota mais relevante é a nota de turma, influenciada pela participação
+ativa e interações durante as sessões. A nota individual será ajustada à média da turma,
+incentivando um ambiente colaborativo onde todos contribuem para o sucesso coletivo.
+A metodologia de ensino inclui uma variedade de formatos, como palestras interativas,
+discussões de leituras, análises de casos, clipes de vídeo e exercícios em sala de aula.
+Esta abordagem diversificada visa atender a diferentes estilos de aprendizagem e man-
+ter o envolvimento ativo dos alunos, criando um ambiente de aprendizagem dinâmico e
+participativo.
+1.4
+Bibliografia e Recomendações de Leitura
+Foi recomendada uma bibliografia cuidadosamente selecionada para aprofundamento dos
+temas discutidos em aula, abrangendo perspetivas clássicas e contemporâneas sobre es-
+tratégia:
+• "Exploring Strategy" - Gerry Johnson, Richard Whittington, Kevan Scholes e
+Steve Pyle
+Este livro oferece uma abordagem abrangente dos conceitos fundamentais de estra-
+tégia, servindo como uma base sólida para a compreensão do campo. É considerado
+um dos textos fundamentais no ensino da estratégia, combinando teoria e prática
+de forma acessível e aplicável.
+• "The Competitive Strategy:
+Techniques for Analyzing Industries and
+Competitors" - Michael Porter
+Esta obra clássica de Porter é uma referência incontornável nas abordagens es-
+tratégicas, apresentando modelos e frameworks que transformaram a forma como
+entendemos a competição empresarial. Os conceitos de Porter, como as cinco for-
+ças competitivas, continuam a ser extremamente relevantes na análise estratégica
+contemporânea.
+• "The Strategy Book:
+How to Think and Act Strategically to Deliver
+Outstanding Results" - Max McKeown
+Oferecendo um guia prático para a aplicação do pensamento estratégico, este livro
+concentra-se em traduzir conceitos teóricos em ações concretas, ajudando os leitores
+a desenvolverem uma mentalidade estratégica aplicável no quotidiano empresarial.
+• "Blink: The Power of Thinking Without Thinking" - Malcolm Gladwell
+Embora não seja um livro especificamente sobre estratégia, esta obra explora o
+papel da intuição nas decisões, um aspeto frequentemente subestimado mas crucial
+no pensamento estratégico. Gladwell examina como os especialistas desenvolvem a
+Américo Dias
+9
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+capacidade de tomar decisões rápidas e eficazes, muitas vezes sem análise consciente
+explícita.
+• "Factfulness: Ten Reasons We’re Wrong About The World - And Why
+Things Are Better Than You Think" - Hans Rosling
+Este livro desafia preconceitos e perceções erróneas comuns sobre o estado do mundo,
+enfatizando a importância de basear decisões estratégicas em dados e factos objeti-
+vos. A abordagem de Rosling é particularmente valiosa para desenvolver uma visão
+global mais precisa e fundamentada.
+• "The Upside of Uncertainty: A Guide to Finding Possibility in the Unk-
+nown" - Nathan Furr e Susannah Harmon Furr
+Focando-se em como lidar com a incerteza de forma positiva, este livro é especial-
+mente relevante num mundo empresarial cada vez mais volátil e imprevisível. Os
+autores oferecem estratégias para transformar a incerteza de ameaça em oportuni-
+dade, um aspeto central do pensamento estratégico contemporâneo.
+Foi ressaltado que, embora a intuição seja importante em estratégia, ela não é suficiente
+por si só. A emoção pode interferir com a razão nas decisões, e é necessário um equilíbrio
+entre pensamento intuitivo e análise rigorosa:
+"A intuição pode ser útil, mas não substitui a reflexão e o rigor."
+Esta observação sublinha a importância de uma abordagem equilibrada, que valorize tanto
+o conhecimento tácito e a experiência quanto a análise sistemática e fundamentada em
+dados.
+1.5
+Conceitos Fundamentais de Estratégia
+1.5.1
+Definições de Estratégia
+A aula prosseguiu com a apresentação de várias definições clássicas de estratégia, desta-
+cando a evolução do conceito ao longo do tempo e as diferentes perspetivas sobre o que
+constitui o pensamento estratégico:
+• Alfred Chandler: "A determinação dos objetivos de longo prazo de uma empresa
+e a adoção de ações e alocação de recursos necessários para atingir esses objetivos."
+Esta definição clássica enfatiza a estratégia como um processo deliberado e planeado,
+focado no estabelecimento de direções de longo prazo e na organização sistemática
+dos recursos para alcançar objetivos predefinidos.
+• Michael Porter: "Estratégia competitiva é ser diferente. Significa escolher delibe-
+radamente um conjunto diferente de atividades para entregar uma mistura única de
+valor."
+Porter destaca a diferenciação como o cerne da estratégia, enfatizando que a ver-
+dadeira vantagem competitiva surge não da imitação, mas da criação de posiciona-
+mentos únicos no mercado através de escolhas distintas e deliberadas.
+Américo Dias
+10
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Henry Mintzberg: "Um padrão num fluxo de decisões."
+Esta definição mais fluida reconhece que a estratégia muitas vezes emerge de padrões
+de comportamento e decisão, em vez de ser sempre um plano explícito e predeter-
+minado.
+Mintzberg reconhece tanto o aspeto deliberado quanto o emergente da
+estratégia.
+• Exploring Strategy: "A direção de longo prazo de uma organização."
+Esta definição mais ampla e inclusiva enfatiza a estratégia como um guia geral para
+a trajetória organizacional, sem necessariamente prescrever abordagens específicas
+ou rígidas.
+Além destas definições clássicas, o professor apresentou uma perspetiva própria que cap-
+tura a essência dinâmica e adaptativa da estratégia num ambiente de negócios complexo:
+"Estratégia é a capacidade de controlar as variáveis incontroláveis, à custa do
+controlo das variáveis controláveis."
+Esta definição original destaca uma dimensão fundamental da estratégia contemporânea:
+a capacidade de influenciar indiretamente fatores que estão fora do controlo direto da
+organização. Embora muitos fatores no ambiente de negócios estejam fora do controlo
+direto de uma organização (como condições macroeconómicas, comportamento dos con-
+correntes ou mudanças tecnológicas disruptivas), é possível influenciar resultados através
+das variáveis que podem ser controladas (como posicionamento de mercado, alocação de
+recursos, desenvolvimento de capacidades distintivas, etc.).
+1.5.2
+As Duas Perguntas Fundamentais da Estratégia
+A compreensão da estratégia foi estruturada em torno de duas perguntas fundamentais
+que devem orientar todo o pensamento estratégico, formando o núcleo do processo de
+desenvolvimento estratégico:
+1. "Onde estamos e o que defendemos?" (Who we are and what we stand for?)
+Esta primeira pergunta foca-se na posição estratégica atual da organização, exigindo
+uma análise honesta e profunda da realidade organizacional. Envolve compreender o
+contexto estratégico em que a organização opera, avaliar as suas capacidades organi-
+zacionais, analisar a sua cultura e articular claramente o seu propósito fundamental.
+Esta análise é essencial para estabelecer uma base sólida para decisões futuras, ga-
+rantindo que a estratégia esteja enraizada numa compreensão realista da identidade
+e posição atual da organização.
+2. "Para onde vamos e porquê?" (Where are we going and why?)
+A segunda pergunta orienta as decisões estratégicas futuras, projetando a direção
+que a organização pretende seguir. Esta questão envolve escolhas em níveis de negó-
+cios e corporativo, incluindo decisões sobre produtos, mercados, posicionamento e
+diversificação. Para ser eficaz, esta direção futura deve estar alinhada com a missão,
+visão e valores da organização, garantindo coerência entre identidade e aspiração.
+A componente "porquê"é particularmente crucial, pois exige uma justificação clara
+para as escolhas estratégicas, ancorada no propósito mais amplo da organização.
+Américo Dias
+11
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+A figura abaixo ilustra estas duas questões fundamentais e a sua relação com diferentes
+aspetos da estratégia:
+Onde estamos?
+O que defendemos?
+"Where we are and what we stand for?"
+Para onde vamos?
+Porquê?
+"Where are we going and why?"
+Posição Estratégica
+Contexto
+Capabilities
+Cultura
+Propósito
+Corporate
+M&A
+&
+Parcerias
+Inovação
+Interna-
+cionalização
+Decisões Estratégicas
+Business
+Figura 2: As duas perguntas fundamentais da estratégia e suas dimensões
+"Em estratégia, há uma parte da estratégia em que temos que pensar. Temos que
+analisar. Temos que refletir."
+O professor enfatizou que responder adequadamente a estas perguntas exige um equilí-
+brio entre análise rigorosa e intuição informada. É necessário dedicar tempo à reflexão
+estratégica para evitar decisões precipitadas ou mal fundamentadas. Este processo não
+é linear nem mecânico, mas sim iterativo e reflexivo, combinando análise objetiva com
+julgamento subjetivo informado pela experiência e conhecimento tácito.
+1.6
+O Processo Estratégico
+O processo estratégico foi descrito como uma sequência dinâmica e iterativa, composta
+por três fases principais que se interrelacionam e se informam mutuamente:
+1.6.1
+Análise Situacional
+A primeira fase do processo estratégico consiste numa análise abrangente do ambiente
+interno e externo da organização. Esta análise representa uma "fotografia do momento",
+capturando a realidade atual da organização e do seu contexto. Inclui:
+• Avaliação detalhada do ambiente interno, identificando forças e fraquezas organiza-
+cionais, recursos disponíveis, capacidades distintivas e limitações estruturais.
+• Análise do ambiente externo, identificando oportunidades emergentes e ameaças
+potenciais, tendências de mercado, movimentos dos concorrentes e mudanças regu-
+latórias ou tecnológicas relevantes.
+• Identificação de fatores críticos de sucesso no setor e avaliação da posição relativa
+da organização face a estes fatores.
+Américo Dias
+12
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Estabelecimento de uma base factual sólida para informar decisões estratégicas,
+minimizando o risco de escolhas baseadas em pressupostos incorretos ou perceções
+enviesadas.
+Esta fase inicial é crucial pois estabelece a fundação sobre a qual todas as escolhas estraté-
+gicas subsequentes serão construídas. Uma análise situacional inadequada ou incompleta
+pode comprometer todo o processo estratégico, independentemente da qualidade da exe-
+cução nas fases seguintes.
+1.6.2
+Definição de Objetivos e Estratégias
+A segunda fase envolve a formulação de objetivos estratégicos claros e o desenvolvimento
+de estratégias para os alcançar:
+• Estabelecimento de metas claras, mensuráveis e temporalmente definidas, que tra-
+duzam a visão e missão organizacional em objetivos concretos e acionáveis.
+• Delineamento de caminhos estratégicos alternativos para alcançar esses objetivos,
+considerando diferentes cenários e possibilidades.
+• Avaliação das opções estratégicas disponíveis em termos de viabilidade, risco, re-
+torno potencial e alinhamento com valores e capacidades organizacionais.
+• Seleção das abordagens estratégicas mais promissoras, considerando tanto fatores
+quantitativos (como projeções financeiras) quanto qualitativos (como alinhamento
+cultural).
+Um aspeto importante destacado foi o caráter interativo desta fase, que permite ajusta-
+mentos antes da implementação. Esta flexibilidade é crucial num ambiente empresarial
+dinâmico, onde a capacidade de adaptar estratégias face a novas informações ou circuns-
+tâncias alteradas é um fator crítico de sucesso.
+1.6.3
+Implementação
+A fase final do processo estratégico refere-se à execução das estratégias selecionadas:
+• Tradução das estratégias em ações concretas e operacionais, definindo responsabili-
+dades claras, alocando recursos necessários e estabelecendo cronogramas de imple-
+mentação.
+• Envolvimento de toda a organização num movimento coordenado e alinhado, ga-
+rantindo que todas as unidades e níveis hierárquicos compreendam o seu papel na
+execução da estratégia.
+• Estabelecimento de mecanismos de monitorização, feedback e controlo que permitam
+avaliar o progresso da implementação e identificar necessidades de ajuste.
+• Criação de sistemas de resposta rápida para adaptar a implementação face a resul-
+tados inesperados ou mudanças no ambiente competitivo.
+Américo Dias
+13
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"Porque estratégia tem sempre um processo de retroalimentação."
+Esta observação ressalta a natureza cíclica e dinâmica do processo estratégico. Foi en-
+fatizado que o contexto estratégico está em constante evolução, mudando com o tempo
+e em resposta às próprias iniciativas da organização. Por isso, a estratégia não pode ser
+estática; deve ser adaptativa e responsiva às mudanças do ambiente:
+"Em estratégia, uma coisa muito importante é não ter sentimentos negativos sobre
+aquilo que se decidiu."
+Esta perspetiva destaca a importância de evitar o viés da confirmação e o compromisso
+escalado com decisões passadas. Os estrategistas devem estar abertos a ajustar ou mesmo
+abandonar estratégias que não estão a funcionar, mesmo que tenham sido investidos recur-
+sos significativos nelas. Esta flexibilidade mental é essencial para uma gestão estratégica
+eficaz num ambiente de negócios caracterizado por rápidas mudanças e incertezas cres-
+centes.
+1.7
+Estratégia e Incerteza
+A relação entre estratégia e incerteza foi um dos temas centrais da aula. Foi enfatizado
+que a estratégia inevitavelmente envolve lidar com o desconhecido, fazendo da capacidade
+de navegar na ambiguidade uma competência central para os estrategistas:
+"Estratégia envolve lidar com o desconhecido e a incerteza."
+O professor destacou que não existe uma única abordagem correta para a estratégia,
+que deve ser adaptada ao contexto específico e às intuições individuais dos líderes. Os
+componentes importantes no desenvolvimento estratégico incluem:
+• A intuição e o conhecimento acumulado - A experiência prévia e o conheci-
+mento tácito desenvolvido ao longo do tempo são recursos valiosos na navegação de
+ambientes incertos, permitindo reconhecer padrões e fazer julgamentos informados
+mesmo na ausência de dados completos.
+• A capacidade de processar informações complexas - Num mundo de so-
+brecarga informacional, a habilidade de filtrar, priorizar e sintetizar informações
+dispersas e às vezes contraditórias torna-se uma competência estratégica crucial.
+• A rapidez na tomada de decisões estratégicas - Em ambientes dinâmicos, a
+capacidade de decidir de forma ágil pode ser tão importante quanto a qualidade
+da decisão em si.
+A paralisia por análise pode levar à perda de oportunidades
+estratégicas valiosas.
+• O equilíbrio entre análise e ação - Estratégias eficazes resultam de um equilíbrio
+cuidadoso entre reflexão analítica e execução decisiva. Demasiada análise pode levar
+à indecisão, enquanto ação sem reflexão suficiente pode resultar em movimentos
+estratégicos mal concebidos.
+A importância da velocidade nas decisões estratégicas foi particularmente enfatizada:
+Américo Dias
+14
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"A velocidade permite resultados. Decisões rápidas são essenciais em emergências.
+A profissão de gestor não permite contemplação prolongada."
+Esta perspetiva reconhece as pressões temporais inerentes à gestão estratégica contem-
+porânea. Embora a reflexão seja importante, há momentos em que a rápida tomada de
+decisão é crucial para aproveitar oportunidades efémeras ou mitigar riscos emergentes. Os
+gestores devem desenvolver a capacidade de equilibrar a necessidade de reflexão cuidadosa
+com a exigência de ação rápida, adaptando a sua abordagem às circunstâncias específicas.
+1.8
+Níveis de Estratégia
+Foram identificados e detalhados três níveis principais de estratégia, cada um operando
+numa esfera diferente da organização mas necessitando de alinhamento mútuo para ga-
+rantir eficácia organizacional:
+1.8.1
+Estratégia Corporativa
+A estratégia corporativa opera no nível mais elevado da organização, definindo o seu
+escopo geral e direção:
+• Envolve decisões fundamentais sobre o escopo e direção geral da organização, in-
+cluindo em que negócios a empresa deve operar e como deve estruturar o seu portfólio
+de atividades.
+• Foca-se no equilíbrio entre diferentes unidades de negócio, procurando sinergias
+potenciais e gerindo a alocação de recursos entre diferentes áreas da organização.
+• Visa a maximização do valor total da organização, considerando não apenas o de-
+sempenho de unidades individuais, mas a sua contribuição coletiva para os objetivos
+organizacionais.
+• Inclui decisões estratégicas sobre diversificação (relacionada ou não relacionada),
+internacionalização (escolha de mercados geográficos) e alocação de recursos finan-
+ceiros, humanos e tecnológicos entre diferentes áreas.
+A estratégia corporativa define os contornos dentro dos quais as estratégias de níveis
+inferiores operam, estabelecendo os limites e possibilidades para todas as outras decisões
+estratégicas na organização.
+1.8.2
+Estratégia de Negócios
+Operando no nível das unidades de negócio individuais, a estratégia de negócios foca-se
+em como competir com sucesso em mercados específicos:
+• Concentra-se em como a unidade de negócio deve posicionar-se e competir no seu
+mercado específico, desenvolvendo propostas de valor distintas e vantagens compe-
+titivas sustentáveis.
+Américo Dias
+15
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Define o posicionamento competitivo de cada unidade de negócio, identificando
+segmentos-alvo, proposta de valor distintiva e bases de diferenciação face à con-
+corrência.
+• Estabelece vantagens competitivas sustentáveis, seja através de liderança em custos,
+diferenciação, especialização em nichos ou abordagens híbridas, dependendo das
+condições do mercado e das capacidades da unidade.
+• Inclui decisões sobre produtos e serviços oferecidos, segmentação de mercado, polí-
+tica de preços, canais de distribuição, e estratégias de marketing e comunicação.
+Enquanto a estratégia corporativa decide "em que negócios estar", a estratégia de negócios
+determina "como competir"em cada um desses negócios escolhidos.
+1.8.3
+Estratégia Operacional
+No nível mais concreto encontra-se a estratégia operacional, que traduz as direções estra-
+tégicas em ações e processos específicos:
+• Trata de como as estratégias corporativas e de negócios são implementadas no dia-
+a-dia, transformando direções estratégicas em procedimentos operacionais, sistemas
+e estruturas.
+• Foca-se nos processos e atividades que criam valor, otimizando operações, processos,
+tecnologia e gestão da cadeia de abastecimento para entregar a proposta de valor
+definida.
+• Alinha as operações com os objetivos estratégicos mais amplos, garantindo que as
+atividades quotidianas contribuam para as metas estratégicas de longo prazo.
+• Inclui decisões sobre sistemas de gestão, estruturas organizacionais, processos de
+trabalho, e políticas de recursos humanos que suportam a execução estratégica.
+A importância do alinhamento entre estes três níveis foi especialmente destacada:
+"Estratégia deve ser delineada e ajustada em cada nível da organização, com o top
+layer / C-level a definir uma rota a seguir pelos restantes layers da organização."
+Esta observação enfatiza a natureza em cascata da estratégia, onde cada nível deve tradu-
+zir e adaptar as diretrizes dos níveis superiores para o seu contexto específico, mantendo
+a coerência global mas permitindo a adaptação contextual necessária. Quando os diferen-
+tes níveis estão desalinhados, surgem ineficiências, conflitos e dispersão de esforços que
+comprometem a execução estratégica.
+1.9
+Horizontes Estratégicos
+Foi apresentado o modelo dos três horizontes estratégicos, uma ferramenta conceptual
+desenvolvida pela McKinsey para ajudar as organizações a equilibrarem as exigências do
+presente com as oportunidades do futuro:
+Américo Dias
+16
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1.9.1
+Horizonte 1 (H1): Defender e Proteger (Curto Prazo)
+O primeiro horizonte estratégico concentra-se na otimização e defesa do negócio atual:
+• Foca-se em defender e otimizar o negócio atual, melhorando eficiência operacional,
+protegendo quota de mercado e maximizando rentabilidade dos produtos e serviços
+existentes.
+• Em situações de emergência ou crise, a prioridade neste horizonte é garantir a sobre-
+vivência organizacional, estabilizando operações e preservando recursos essenciais.
+• Envolve melhorias incrementais e iniciativas de eficiência operacional que aperfei-
+çoam o modelo de negócio existente, otimizando processos internos e relações com
+clientes e fornecedores.
+• Gera o fluxo de caixa necessário para investir nos outros horizontes, funcionando
+como o "motor financeiro"que alimenta iniciativas de crescimento futuro e exploração
+de novas oportunidades.
+"A estratégia mais importante e primeira ambição de qualquer empresa é sobrevi-
+ver. Qualquer estratégia que ponha em causa a sobrevivência da empresa deverá
+ser largamente questionada."
+Esta observação sublinha a prioridade fundamental da sobrevivência organizacional. Por
+mais ambiciosas que sejam as aspirações de crescimento ou transformação, estas tornam-se
+irrelevantes se a organização não conseguir garantir a sua continuidade a curto prazo. Em
+momentos de crise ou turbulência, a priorização estratégica deve reconhecer esta realidade
+incontornável.
+1.9.2
+Horizonte 2 (H2): Desenvolver (Médio Prazo)
+O segundo horizonte estratégico foca-se no desenvolvimento de oportunidades emergentes
+com potencial de crescimento significativo:
+• Centra-se em desenvolver novas oportunidades emergentes que já demonstram sinais
+promissores, expandindo-as para se tornarem componentes significativos do portfólio
+de negócios.
+• Envolve a expansão de capacidades existentes para novos contextos, adaptando mo-
+delos de negócio comprovados a segmentos, mercados ou aplicações adjacentes.
+• Resulta na criação de novos negócios com potencial de crescimento substancial, que
+eventualmente poderão evoluir para fontes principais de receita e lucro.
+• Representa a ponte crítica entre o presente e o futuro distante, garantindo que a
+organização não fique presa ao status quo nem se perca em sonhos irrealistas.
+As iniciativas do Horizonte 2 geralmente exigem investimentos significativos e atenção exe-
+cutiva, mas também oferecem perspetivas de retorno mais concretas e prazos de realização
+mais curtos do que as explorações do Horizonte 3.
+Américo Dias
+17
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1.9.3
+Horizonte 3 (H3): Semear (Longo Prazo)
+O terceiro horizonte estratégico olha para o futuro mais distante, explorando possibilida-
+des emergentes que poderão transformar a organização ou o seu setor:
+• Foca-se em criar opções para o futuro mais distante, investigando tendências emer-
+gentes, tecnologias disruptivas ou modelos de negócio radicalmente novos.
+• Envolve a exploração de ideias, tecnologias e tendências emergentes que ainda não
+são mainstream, mas que têm potencial para redefinir indústrias ou criar categorias
+inteiramente novas.
+• Inclui investimentos em pesquisa e desenvolvimento, experimentação de novos con-
+ceitos, e participação em ecossistemas de inovação externos à organização.
+• Prepara a organização para disrupções e transformações fundamentais do mercado,
+garantindo que não seja surpreendida por mudanças tecnológicas, sociais ou econó-
+micas profundas.
+A representação gráfica destes três horizontes estratégicos ilustra a sua relação temporal e
+o seu papel complementar na garantia da sustentabilidade a longo prazo da organização:
+Horizonte 1
+Consolidar
+Defender
+Horizonte 2
+Desenvolver
+Expandir
+Horizonte 3
+Criar opções
+Semear
+Curto Prazo
+Médio Prazo
+Longo Prazo
+Uma estratégia equilibrada atua nos três horizontes simultaneamente
+Figura 3: Os três horizontes estratégicos e o seu papel na sustentabilidade organizacional
+"Uma estratégia equilibrada atua nos três horizontes simultaneamente."
+Esta afirmação resume um princípio fundamental da gestão estratégica eficaz: a necessi-
+dade de equilíbrio. Empresas bem-sucedidas distribuem recursos entre os três horizontes
+de forma estratégica, mantendo o equilíbrio adequado conforme o setor, o ciclo de vida da
+organização e as condições do mercado. Este equilíbrio evita dois erros comuns: focar-se
+exclusivamente no presente (sacrificando o futuro) ou investir desproporcionalmente em
+possibilidades futuras (comprometendo a viabilidade atual).
+Existe ainda o conceito de "Horizonte 0"que, embora não faça parte do modelo formal dos
+três horizontes estratégicos da McKinsey, pode ser entendido como uma fase preliminar
+Américo Dias
+18
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+focada exclusivamente na sobrevivência imediata da organização em situações de crise
+aguda. Neste horizonte hipotético, as preocupações estratégicas limitam-se às ações de
+emergência e decisões de curtíssimo prazo que asseguram a continuidade operacional bá-
+sica - como gestão rigorosa de fluxo de caixa, cortes drásticos de despesas não essenciais,
+renegociação urgente com credores ou reestruturação operacional radical. Enquanto o
+Horizonte 1 já contempla alguma otimização e proteção do negócio atual com perspectiva
+de curto prazo, o Horizonte 0 representa o estágio de "combate a incêndios", onde a única
+métrica relevante é a sobrevivência organizacional.
+Esta interpretação alinha-se com a ênfase que Luís Filipe Reis coloca na sobrevivência
+como prioridade estratégica fundamental quando afirma que "a estratégia mais importante
+e primeira ambição de qualquer empresa é sobreviver", sugerindo que existe um imperativo
+estratégico anterior às considerações sobre otimização, crescimento ou inovação: garantir
+que a organização continue a existir para poder implementar quaisquer outras estratégias
+nos horizontes subsequentes.
+1.10
+Gestão da Mudança e Cultura Organizacional
+Um aspeto central da discussão foi a relação intrincada entre estratégia e mudança orga-
+nizacional:
+"Gerir estratégia é gerir mudança."
+Esta afirmação destaca que implementar uma estratégia invariavelmente implica mudan-
+ças em processos, sistemas, estruturas e, muitas vezes, na própria cultura da organização.
+A estratégia não é meramente um exercício conceptual, mas sim um catalisador de trans-
+formação organizacional.
+Foi destacada a importância da reflexão estratégica, diferenciando-a da mera reação ime-
+diata aos eventos:
+"Reagir sem reflexão não é uma boa estratégia de atraso. A gestão obriga, por
+muito que exista intuição, à reflexão."
+Esta observação contrasta dois modos distintos de resposta a desafios: a reação impulsiva e
+não refletida versus a resposta estratégica baseada em análise deliberada. Embora existam
+contextos que exigem ação rápida, as decisões estratégicas beneficiam geralmente de um
+período de reflexão que permite a consideração de múltiplas perspetivas, consequências a
+longo prazo e alinhamento com objetivos organizacionais mais amplos.
+Foi observado que culturas que valorizam a reflexão, como a chinesa, tendem a estar
+mais preparadas para o longo prazo. Isto reforça a importância de criar espaços para o
+pensamento estratégico dentro das organizações, evitando respostas impulsivas às pressões
+imediatas. Esta valorização da reflexão estratégica deve ser incorporada na própria cultura
+organizacional, influenciando como as decisões são tomadas em todos os níveis.
+Américo Dias
+19
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1.11
+A Importância do Tempo na Estratégia
+O tempo foi apresentado como um recurso essencial e frequentemente subestimado para
+a reflexão estratégica e a tomada de decisões eficazes:
+"As horas são aquilo que fazemos delas. O tempo é aquilo que fazemos dele."
+Esta reflexão destaca a natureza subjetiva e maleável do tempo na experiência organiza-
+cional. Mais do que um mero constrangimento externo, o tempo é um recurso que pode
+ser gerido, priorizado e alocado de forma estratégica, refletindo os valores e prioridades
+da organização.
+Foi apresentada uma crítica ao sistema educacional atual por não incentivar suficiente-
+mente o pensamento crítico, focando-se excessivamente na memorização de conteúdos em
+detrimento do desenvolvimento de capacidades de análise e síntese. No contexto empre-
+sarial, esta deficiência traduz-se frequentemente em gestores que respondem às pressões
+imediatas sem a profundidade analítica necessária para decisões verdadeiramente estraté-
+gicas.
+A pressão constante por resultados imediatos, característica do ambiente corporativo con-
+temporâneo, pode comprometer a qualidade do pensamento estratégico:
+"É importante criar tempo para reflexão e aprendizagem."
+Esta observação assume especial relevância num contexto empresarial crescentemente ca-
+racterizado pela urgência e imediatismo. A capacidade de "desacelerar para acelerar"–
+de criar deliberadamente espaços para reflexão profunda como investimento em decisões
+futuras de melhor qualidade – pode constituir uma vantagem competitiva significativa.
+Também foi abordado o impacto das novas modalidades de trabalho, como o teletrabalho,
+na qualidade das interações organizacionais:
+"O trabalho remoto pode reduzir a qualidade das interações."
+Esta observação reflete preocupações sobre como as novas configurações de trabalho po-
+dem afetar a qualidade do diálogo estratégico, da transferência de conhecimento tácito e
+da construção de consenso em torno de direções estratégicas. Embora o trabalho remoto
+ofereça benefícios em termos de flexibilidade e acesso a talentos, também apresenta desa-
+fios para processos estratégicos que tradicionalmente beneficiaram da interação presencial
+rica e multidimensional.
+Por fim, destacou-se o perigo do conformismo nas organizações e a importância de ques-
+tionar pressupostos estabelecidos:
+"Somos colocados muitas vezes em situação de conformismo pelas próprias orga-
+nizações. Não devemos aceitar o conformismo."
+O pensamento estratégico eficaz requer frequentemente a disposição para desafiar o status
+quo e questionar pressupostos estabelecidos. Culturas organizacionais que desencorajam
+estas qualidades, favorecendo o conformismo e a aquiescência, tendem a limitar a sua
+capacidade de adaptação estratégica e inovação.
+Foi também destacado um fenómeno organizacional relevante que pode comprometer a
+Américo Dias
+20
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+execução estratégica eficaz:
+"Empresas têm horror ao vazio, ou seja, a funções que não são desempenhadas
+porque toda a gente acha que não é do seu pelouro. As corporações devem valorizar
+pessoas que preenchem esses vazios."
+Esta observação identifica uma disfunção comum em muitas organizações: áreas de res-
+ponsabilidade ambígua que permanecem negligenciadas porque caem nos interstícios da
+estrutura formal. Estes "vazios organizacionais"são frequentemente críticos para a execu-
+ção estratégica bem-sucedida, pois envolvem interfaces entre departamentos ou funções
+que requerem integração e coordenação. As organizações que valorizam e recompensam
+indivíduos que proativamente assumem responsabilidade por estas áreas tendem a de-
+monstrar maior coerência e eficácia na implementação estratégica.
+1.12
+Foco no Cliente e Economia da Atenção
+A importância do foco no cliente foi um tema recorrente na aula, reconhecendo a centra-
+lidade da criação de valor para o cliente em qualquer estratégia sustentável:
+"A organização tem que ser capaz de se colocar ao serviço do cliente."
+Esta afirmação destaca o imperativo de uma orientação genuína para o cliente, em con-
+traste com abordagens mais autocentradas ou puramente orientadas para produtos. Foi
+enfatizado que as organizações devem servir os seus clientes com humildade, colocando-se
+ao seu serviço enquanto mantêm simultaneamente a sua visão e propósito distintivos. A
+estratégia deve influenciar tanto as receitas (top line) quanto os lucros (bottom line) da
+empresa, criando valor tanto para clientes quanto para a organização.
+Um conceito particularmente relevante introduzido foi o da economia da atenção:
+"Hoje, o recurso mais escasso é a atenção."
+Esta observação perspicaz reconhece uma realidade fundamental do ambiente empresarial
+contemporâneo: num mundo saturado de informações e estímulos competitivos, a atenção
+do cliente tornou-se um recurso extremamente valioso e cada vez mais disputado. As
+organizações devem ser capazes de criar "momentos de atenção indisputável", onde o
+cliente está completamente focado na proposta de valor oferecida, livres da distração
+omnipresente que caracteriza a experiência contemporânea.
+Este conceito foi ilustrado com exemplos do mundo político, oferecendo uma perspetiva
+interessante sobre como princípios semelhantes operam em diferentes domínios:
+"O negócio dos políticos é gerar os momentos de atenção e aproveitar esses mo-
+mentos."
+Foi mencionado que figuras políticas como Meloni, Trump e Le Pen dominam a arte de
+criar e explorar momentos de atenção para ganhar influência política. A aceleração dos
+meios de comunicação, como TikTok e Instagram, intensificou este fenómeno, criando um
+ambiente ainda mais fragmentado onde a habilidade de capturar atenção se torna ainda
+mais crítica, mas também potencialmente mais perigosa devido à superficialidade que
+frequentemente favorece.
+Américo Dias
+21
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Esta análise da economia da atenção oferece implicações estratégicas significativas: as or-
+ganizações devem desenvolver capacidades para não apenas capturar, mas também reter e
+aprofundar a atenção do cliente. Isto pode envolver desde técnicas de comunicação e mar-
+keting mais sofisticadas até ao redesenho fundamental de produtos, serviços e experiências
+do cliente para maximizar o envolvimento significativo.
+1.13
+Aspectos Financeiros da Estratégia
+Foram abordados conceitos financeiros essenciais para a compreensão estratégica, estabe-
+lecendo a linguagem fundamental através da qual o desempenho estratégico é frequente-
+mente avaliado:
+• Top line: Refere-se à receita ou faturação total de uma organização, represen-
+tando o volume bruto de atividade comercial sem considerar custos ou despesas. O
+crescimento da "top line"indica expansão da atividade de mercado, mas não neces-
+sariamente aumento de rentabilidade.
+• Bottom line: Representa o resultado líquido ou lucro final (net income) após a
+subtração de todos os custos e despesas das receitas. É frequentemente considerada
+a medida definitiva de rentabilidade numa perspetiva contabilística.
+• Free cash flow: Considerado um indicador particularmente objetivo e fiável, o
+fluxo de caixa livre representa o dinheiro efetivamente gerado pela organização após
+investimentos em capital. É essencial para a avaliação real da saúde financeira e
+capacidade de investimento de uma empresa.
+• EBITDA: Earnings Before Interest, Taxes, Depreciation, and Amortization (Re-
+sultados Antes de Juros, Impostos, Depreciação e Amortização) é uma medida ope-
+racional importante que oferece uma perspetiva sobre a rentabilidade operacional,
+mas não considera componentes significativas da estrutura financeira e de capital
+de uma organização.
+Uma observação particularmente relevante destacou a diferença fundamental entre métri-
+cas contabilísticas e realidade financeira:
+"Net income is an opinion, free cash flow is a fact."
+Esta afirmação provocadora mas perspicaz destaca que o resultado líquido contabilístico
+é influenciado por escolhas contabilísticas, estimativas, periodização e outras decisões que
+incorporam um grau significativo de subjetividade e julgamento. Em contraste, o fluxo
+de caixa livre representa uma realidade mais objetiva e incontestável da saúde financeira
+de uma organização – a capacidade efetiva de gerar dinheiro que pode ser utilizado para
+investimento, distribuição aos acionistas ou reforço da posição financeira.
+Esta distinção tem implicações estratégicas profundas. Estratégias que focam exclusiva-
+mente na otimização de métricas contabilísticas podem criar uma ilusão de sucesso que
+não se reflete na realidade financeira fundamental da organização. Uma perspetiva es-
+tratégica mais robusta considera indicadores de fluxo de caixa para avaliar a verdadeira
+criação de valor e sustentabilidade financeira, complementando (mas não substituindo) as
+métricas contabilísticas tradicionais.
+Américo Dias
+22
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1.14
+A Essência do Sucesso: Diferenciação
+A importância da diferenciação foi reiterada ao longo da aula como um princípio estraté-
+gico fundamental, aplicável tanto a organizações quanto a indivíduos:
+"Quem quer ter uma carreira bem-sucedida, tem que ter muito claro o que é que
+a diferencia."
+Esta observação destaca a centralidade da diferenciação distintiva em qualquer estraté-
+gia sustentável.
+Foi enfatizado que ter clareza sobre o que diferencia uma pessoa ou
+organização é fundamental para o sucesso sustentável, evitando a armadilha da media-
+nia indistinta. A estratégia deve ser intencionalmente diferente e gerar valor de forma
+consistente:
+"Pior estratégia é querer ser tudo para todos. Uma das coisas mais importantes é:
+temos de ser diferentes, temos de ’stand out’, temos de ter um fator diferenciador."
+Esta perspetiva alinha-se com a visão de Michael Porter sobre estratégia competitiva como
+sendo fundamentalmente "ser diferente de forma consistente e gerar valor". A verdadeira
+diferenciação estratégica envolve fazer escolhas deliberadas – decidir não apenas o que
+fazer, mas também o que não fazer – para criar um posicionamento distintivo e defensável
+no mercado.
+Importante notar que a diferenciação relevante foi apresentada como essencial para gerar
+valor. Foi feito um alerta contra diferenças irrelevantes que não agregam valor percebido
+pelos clientes – distinções superficiais ou arbitrárias que não influenciam a decisão de
+compra ou a disposição para pagar um prémio não constituem vantagens estratégicas
+reais.
+Foi destacado que estratégia e marketing não são a mesma coisa, embora sejam frequen-
+temente confundidos, especialmente em organizações menores:
+"Estratégia é diferente de marketing."
+Esta distinção é crucial. Enquanto o marketing foca-se na comunicação da proposta de
+valor e na gestão da relação com o mercado, a estratégia aborda questões mais fundamen-
+tais de posicionamento competitivo, alocação de recursos e criação de valor sustentável.
+Muitas empresas, especialmente pequenas e médias, cometem o erro de delegar a res-
+ponsabilidade pela estratégia ao departamento de marketing, o que pode levar a uma
+visão excessivamente orientada para a comunicação e insuficientemente atenta a questões
+fundamentais de operações, tecnologia, talento e outros pilares da vantagem competitiva:
+"Strategy is far too important to be left to marketing professionals."
+Esta provocação sublinha que a estratégia é uma responsabilidade central da gestão de
+topo e requer uma perspetiva holística e integrativa que transcende os limites de qualquer
+função especializada, inclusive o marketing. Embora os profissionais de marketing tenham
+contribuições valiosas para o processo estratégico, a direção estratégica global deve emer-
+gir de uma consideração mais ampla de capacidades, recursos, tendências de mercado e
+posicionamento competitivo.
+Américo Dias
+23
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1.15
+Estratégia e Ética Empresarial
+A dimensão ética da estratégia empresarial recebeu atenção significativa durante a aula,
+refletindo a importância crescente de considerações éticas no pensamento estratégico con-
+temporâneo:
+"O comportamento ético irrepreensível, na minha perspectiva, quer o individual,
+quer o coletivo, é crítico e paga."
+Esta afirmação articula a convicção de que a ética nos negócios não é apenas uma questão
+de princípios, mas também pode trazer retornos tangíveis a médio e longo prazo.
+A
+integridade ética, longe de ser um constrangimento à eficácia estratégica, pode constituir
+um ativo estratégico valioso, construindo confiança com stakeholders, reduzindo riscos
+legais e reputacionais, e criando relações mais sustentáveis e mutuamente benéficas com
+clientes, colaboradores, fornecedores e comunidades.
+Contudo, foi reconhecido que a ética é um conceito que pode variar ao longo do tempo e
+conforme o contexto geográfico:
+"A ética é um conceito individual e varia com o tempo e geografia. A ética paga
+a médio e longo prazo."
+Esta observação reconhece a natureza contextual e evolutiva da ética, sem cair num rela-
+tivismo que negaria a existência de princípios éticos fundamentais. Práticas consideradas
+aceitáveis num determinado momento histórico ou contexto cultural podem ser vistas
+de forma diferente noutras circunstâncias, o que coloca desafios particulares para orga-
+nizações que operam globalmente ou que atravessam períodos de rápida transformação
+social.
+Foi apresentada uma matriz conceptual de ética versus legalidade, classificando as ações
+empresariais em quatro categorias distintas:
+Ético
+Não
+Ético
+Ilegal
+Legal
+?
+?
+Figura 4: Matriz de ética versus legalidade na tomada de decisão empresarial
+1. Ético e Legal (situação ideal): comportamentos que respeitam tanto os padrões
+éticos quanto as leis, representando o quadrante onde as organizações devem con-
+centrar a maioria das suas atividades.
+Américo Dias
+24
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+2. Ético mas Ilegal: situações mais complexas onde a lei pode estar em desacordo
+com princípios éticos mais fundamentais, colocando dilemas significativos para os
+decisores.
+3. Antiético mas Legal: comportamentos permitidos por lei, mas eticamente ques-
+tionáveis, representando riscos reputacionais e potencialmente prejudiciais para a
+sustentabilidade a longo prazo.
+4. Antiético e Ilegal: violações claras tanto de princípios éticos quanto de leis, de-
+vendo ser evitadas a todo custo, independentemente de potenciais ganhos a curto
+prazo.
+Foi sugerido que, em certas circunstâncias excecionais, pode ser necessário questionar a
+legalidade estrita, mas nunca comprometer a integridade ética fundamental:
+"Violar lei é fazível, nunca violando ética."
+Esta perspetiva reconhece que, em casos raros, leis podem estar em tensão com princípios
+éticos mais fundamentais. No entanto, qualquer decisão de operar nas fronteiras ou além
+dos limites legais deve ser extraordinariamente bem fundamentada, limitada ao estrita-
+mente necessário para observar princípios éticos mais elevados, e acompanhada de uma
+disposição para aceitar as consequências legais potenciais.
+1.16
+Estratégia e Propósito Organizacional
+A estratégia foi relacionada ao propósito fundamental das organizações, sublinhando a
+importância de clareza sobre os objetivos últimos que a estratégia deve servir:
+"Todo o nosso trabalho, toda a nossa vida deve ser orientada para sermos ricos e
+saudáveis."
+Esta metáfora perspicaz distingue duas dimensões complementares do sucesso organizaci-
+onal: "riqueza", representando o sucesso momentâneo e imediato em termos de resultados,
+e "saúde", representando a capacidade de manter esse sucesso ao longo do tempo, resis-
+tindo a choques e continuando a prosperar em circunstâncias dinâmicas:
+"A Riqueza é momentânea, a saúde é duradoura."
+Esta distinção ilustra a tensão fundamental entre objetivos de curto e longo prazo que as
+organizações frequentemente enfrentam. Estratégias que sacrificam a "saúde"organizacional
+pela "riqueza"imediata – por exemplo, reduzindo investimentos essenciais, esgotando re-
+cursos críticos ou negligenciando o desenvolvimento de capacidades futuras para maximi-
+zar resultados trimestrais – podem criar um ciclo de declínio a longo prazo.
+Foi destacado que, assim como as empresas, os indivíduos devem buscar não apenas o
+êxito imediato, mas a sustentabilidade dos seus resultados:
+"Uma organização tem de ser rica e saudável. Objetivo de estratégia: ou um, ou
+outro ou os dois."
+Américo Dias
+25
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Idealmente, uma estratégia eficaz permite conquistar simultaneamente "riqueza"e "saúde",
+criando um círculo virtuoso onde o sucesso imediato reforça a capacidade de sustentação
+a longo prazo, e a sustentabilidade de longo prazo possibilita maiores sucessos imedia-
+tos. No entanto, em certas circunstâncias, as organizações podem ser forçadas a priorizar
+temporariamente uma dimensão sobre a outra – por exemplo, sacrificando alguma ren-
+tabilidade imediata para investir na construção de capacidades transformadoras para o
+futuro, ou focando-se intensamente em resultados a curto prazo durante uma crise para
+garantir sobrevivência.
+1.17
+A Natureza das Decisões Estratégicas
+Foi apresentada uma perspetiva nuançada sobre como avaliar decisões estratégicas, rejei-
+tando a dicotomia simplificada entre decisões "certas"e "erradas":
+"Não se deve classificar decisões estratégicas como certas ou erradas."
+Esta visão reconhece a complexidade inerente às decisões estratégicas, que frequentemente
+são tomadas em condições de incerteza, ambiguidade e informação incompleta. Em vez
+da classificação binária, foi sugerido um enquadramento mais sofisticado, baseado na
+qualidade do processo decisório:
+"Decisões estratégicas devem ser baseadas na máxima informação disponível no
+momento."
+Nesta perspetiva, o mais adequado é classificar as decisões como suficientemente ou in-
+suficientemente fundamentadas, considerando a informação disponível no momento em
+que são tomadas. Uma decisão pode ser considerada "bem fundamentada"se utiliza apro-
+priadamente a informação disponível, considera alternativas relevantes, avalia riscos e
+oportunidades de forma sistemática, e alinha-se com os objetivos organizacionais mais
+amplos – independentemente dos resultados que eventualmente produz.
+Esta abordagem reconhece que mesmo decisões bem fundamentadas podem ter resultados
+negativos devido a fatores imprevisíveis ou desenvolvimentos posteriores fora do controlo
+dos decisores. Igualmente, decisões aparentemente fracas ou insuficientemente fundamen-
+tadas podem, ocasionalmente, resultar em sucessos inesperados devido a fatores fortuitos.
+A qualidade da decisão e a qualidade do resultado são dimensões distintas que devem ser
+avaliadas separadamente para uma aprendizagem organizacional eficaz.
+Esta perspetiva tem implicações significativas para a cultura organizacional. Organiza-
+ções que avaliam decisões exclusivamente pelos seus resultados podem criar ambientes
+onde gestores evitam decisões inovadoras mas arriscadas (mesmo quando bem fundamen-
+tadas), preferindo opções seguras e convencionais que minimizam a possibilidade de "er-
+ros"visíveis, mesmo que essa aversão ao risco comprometa oportunidades de crescimento
+e inovação.
+1.18
+Considerações Finais e Desafios Futuros
+Para encerrar a aula, foram sintetizados os principais pontos e estabelecidas expectativas
+para as próximas sessões, reafirmando o objetivo central da disciplina:
+Américo Dias
+26
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"Nós precisamos de pôr as pessoas a pensar, a tomar decisões, a fazer escolhas, a
+avaliar os prós e os contras de cada uma das decisões que estão a tomar."
+Esta afirmação reforça a natureza fundamentalmente intelectual e analítica da estratégia,
+que exige raciocínio crítico, ponderação cuidadosa de alternativas, e consideração delibe-
+rada de consequências potenciais. O desenvolvimento destas capacidades de pensamento
+estratégico foi identificado como o objetivo primordial da disciplina.
+O objetivo final da estratégia foi articulado como a mobilização coordenada de toda a
+organização numa direção comum:
+"Uma boa estratégia leva depois a organização toda a fazer um movimento com
+propósito, coordenado e eficiente."
+Esta visão destaca a estratégia como uma força mobilizadora e unificadora, que alinha
+esforços dispersos, concentra energia organizacional, e direciona capacidades coletivas para
+objetivos comuns. Uma estratégia eficaz não é apenas um plano, mas um mecanismo de
+coordenação que possibilita ação coletiva coerente e direcionada.
+Foram identificados quatro desafios estratégicos fundamentais que serão explorados em
+maior profundidade nas próximas aulas:
+• Tempo - a gestão do tempo como recurso estratégico, reconhecendo que a capa-
+cidade de alocar atenção e investir tempo de forma inteligente é uma competência
+crítica no ambiente empresarial contemporâneo.
+• Mudança - a capacidade de liderar e adaptar-se à mudança, navegando contextos
+dinâmicos e transformando disrupções potenciais em oportunidades de renovação e
+crescimento.
+• Pensamento MBA - o desenvolvimento de uma perspetiva integrada e sistemática
+que transcende silos funcionais e considera interrelações complexas entre diferentes
+dimensões do negócio.
+• Pensar diferente - o cultivo da criatividade e inovação no pensamento estratégico,
+desafiando pressupostos estabelecidos e identificando possibilidades não convencio-
+nais para criação de valor.
+Estes quatro desafios representam áreas de desenvolvimento essenciais para qualquer es-
+trategista, seja ao nível individual, de equipa ou organizacional. Ao longo do curso, serão
+exploradas ferramentas conceptuais, metodologias práticas e estudos de caso que ajudarão
+os participantes a enfrentar cada um destes desafios de forma mais eficaz.
+Américo Dias
+27
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+2
+Aula 2 - Posição Estratégica
+2.1
+Introdução à Posição Estratégica
+Na segunda aula, o Professor Luís Filipe Reis aprofundou o tema da posição estratégica,
+destacando a importância de compreender o contexto atual da organização como base para
+qualquer decisão estratégica futura. Esta análise é essencial para responder à primeira
+pergunta fundamental da estratégia: "Onde estamos e o que defendemos?".
+"É preferível estar na indústria certa do que estar na indústria errada."
+A aula explorou as ferramentas que permitem uma análise aprofundada do ambiente
+interno e externo, fornecendo um quadro completo da posição estratégica atual.
+2.2
+O Desafio do Investimento Estratégico
+O professor iniciou a aula com um exercício prático, desafiando os alunos a pensarem
+como investiriam um milhão de dólares:
+"Quero uma indústria que cresça, quero uma indústria grande, grande e a crescer,
+muito rentável e muito sustentável no tempo."
+Este exercício estabeleceu o tom para toda a discussão sobre seleção estratégica de indús-
+trias, destacando que a escolha do setor onde atuar é frequentemente mais determinante
+para o sucesso do que a excelência operacional dentro de um setor errado. Os participantes
+apresentaram diversas opções de investimento, desde a produção alimentar na África até
+materiais compósitos para defesa militar em Portugal, estimulando uma discussão sobre
+os critérios de atratividade industrial.
+2.3
+Análise de Tendências Macro e Micro
+Uma parte significativa da aula foi dedicada à análise de tendências que devem informar
+as decisões estratégicas. O professor destacou a importância de compreender tanto as
+macrotendências, que moldam ambientes amplos, quanto as microtendências, que afetam
+segmentos específicos:
+"O crescimento exponencial não é intuitivo."
+Esta observação refere-se à dificuldade humana em processar intuitivamente crescimentos
+não-lineares, um desafio fundamental para a previsão estratégica em ambientes de rápida
+transformação.
+2.3.1
+O Mundo VUCA
+O conceito de VUCA (Volatilidade, Incerteza, Complexidade e Ambiguidade) foi apre-
+sentado como uma ferramenta para caracterizar o ambiente empresarial contemporâneo:
+Américo Dias
+28
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Volatilidade - respondida com confiabilidade (reliability)
+Refere-se à natureza e dinâmica da mudança, sua velocidade e os catalisadores de
+mudança.
+Em ambientes altamente voláteis, as organizações devem desenvolver
+confiabilidade como resposta estratégica.
+• Incerteza - respondida com transparência (trustworthy)
+Indica a falta de previsibilidade e a perspectiva de surpresas. A transparência e
+a construção de confiança são respostas organizacionais eficazes para navegar na
+incerteza.
+• Complexidade - respondida com simplicidade (straightforward)
+Representa a multiplicidade de forças e a confusão que cerca as organizações. A
+simplicidade estratégica e operacional torna-se uma vantagem competitiva em am-
+bientes complexos.
+• Ambiguidade - respondida com clareza (understandable)
+Refere-se à nebulosidade do "real"e à confusão entre causa e efeito. A clareza de
+propósito e comunicação ajuda as organizações a navegarem em condições ambíguas.
+VOLATILIDADE
+Resposta:
+Confiabilidade
+(Reliability)
+INCERTEZA
+Resposta:
+Transparência
+(Trustworthy)
+COMPLEXIDADE
+Resposta:
+Simplicidade
+(Straightforward)
+AMBIGUIDADE
+Resposta:
+Clareza
+(Understandable)
+Uma estratégia eficaz deve responder aos quatro elementos do VUCA
+Figura 5: O modelo VUCA e as respostas organizacionais correspondentes
+2.3.2
+Os 6 D’s da Transformação Digital
+Foi apresentada a estrutura dos 6 D’s, desenvolvida por Peter Diamandis, para explicar
+como as tecnologias se desenvolvem e transformam indústrias:
+1. Digitalização - "Tudo que pode ser digitalizado será digitalizado."
+O início da transição exponencial ocorre quando algo se torna digital, passando a
+seguir a Lei de Moore.
+2. Deceção (Deception) - "Estamos permanentemente a ser enganados pela não-
+linearidade."
+O período inicial de crescimento lento cria uma falsa perceção de insignificância,
+levando à subestimação do potencial transformador.
+Américo Dias
+29
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+3. Disrupção - Momento em que indústrias e mercados estabelecidos são transforma-
+dos radicalmente.
+4. Desmonetização - "A desmonetização faz com que preços de muitos produtos
+caiam exponencialmente."
+O dinheiro é removido da equação à medida que serviços e produtos se tornam mais
+baratos ou gratuitos.
+5. Desmaterialização - Produtos físicos desaparecem, sendo substituídos por equi-
+valentes digitais.
+6. Democratização - "A democratização amplia o acesso a produtos e serviços."
+Acesso amplamente distribuído a capacidades antes restritas a poucos.
+"Os melhores modelos não têm heurística."
+Esta observação reflete como a inteligência artificial moderna não depende de regras pré-
+definidas, mas de auto-aprendizagem, representando um afastamento significativo dos
+modelos tradicionais de decisão.
+Figura 6: A framework 6D
+2.4
+Análise PESTEL e Indústria
+A análise PESTEL foi apresentada como uma ferramenta fundamental para examinar
+sistematicamente o macro-ambiente em que uma organização opera:
+• Político - O ambiente político e a estabilidade governamental
+• Económico - Fatores económicos, incluindo taxas de juros, inflação, taxas de câmbio
+• Social - Tendências demográficas, normas sociais, atitudes culturais
+• Tecnológico - Inovações, automação, I&D
+Américo Dias
+30
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Ecológico/Ambiental - Preocupações ambientais, regulamentos, sustentabilidade
+• Legal - Leis e regulamentos que afetam o negócio
+ANÁLISE
+PESTEL
+P
+Político
+Estabilidade governamental,
+políticas fiscais,
+política internacional
+E
+Económico
+Taxas de juros, inflação,
+crescimento, desemprego
+S
+Social
+Demografia, distribuição,
+cultura, educação, estilo de vida
+T
+Tecnológico
+Inovação, automação,
+pesquisa, novas tecnologias
+E
+Ecológico
+Regulações ambientais,
+sustentabilidade, clima
+L
+Legal
+Leis de proteção, antitruste,
+legislação trabalhista
+Figura 7: Componentes da análise PESTEL e sua relação com a estratégia organizacional
+"A regulação determina o essencial do setor."
+Esta observação reflete o papel crucial que a regulamentação desempenha na determina-
+ção da estrutura e dinâmica competitiva de muitos setores, especialmente em indústrias
+altamente regulamentadas como energia, saúde e serviços financeiros.
+2.5
+Análise da Indústria com Porter+
+O modelo das Cinco Forças de Porter, expandido para Porter+ com a adição de tecnologia,
+regulação e barreiras à entrada, foi apresentado como uma ferramenta essencial para
+avaliar a atratividade relativa de uma indústria:
+• Rivalidade entre Concorrentes Existentes - Intensidade da competição entre
+empresas estabelecidas
+• Ameaça de Novos Entrantes - Facilidade com que novas empresas podem entrar
+no mercado
+Américo Dias
+31
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Poder de Negociação dos Fornecedores - Capacidade dos fornecedores de in-
+fluenciar preços e termos
+• Poder de Negociação dos Compradores - Capacidade dos clientes de pressionar
+as empresas
+• Ameaça de Produtos ou Serviços Substitutos - Facilidade com que os clientes
+podem encontrar alternativas
+• Tecnologia - Disrupções tecnológicas que podem transformar a indústria
+• Regulação - Impacto do ambiente regulatório no setor
+• Barreiras à Entrada - Obstáculos específicos que dificultam a entrada de novos
+competidores
+COMPETIÇÃO
+ENTRE RIVAIS
+EXISTENTES
+AMEAÇA DE
+NOVOS ENTRANTES
+PODER DE NEGOCIAÇÃO
+DOS FORNECEDORES
+PODER DE NEGOCIAÇÃO
+DOS COMPRADORES
+AMEAÇA DE
+PRODUTOS SUBSTITUTOS
+TECNOLOGIA
+REGULAÇÃO
+BARREIRAS
+À ENTRADA
+O modelo Porter+ adiciona três forças ao tradicional modelo das cinco forças de Porter
+(+)
+(+)
+(+)
+Figura 8: O modelo Porter+ para análise industrial
+Utilizando o exemplo da EDP (Energias de Portugal), o professor ilustrou como uma
+empresa pode utilizar a regulação para criar barreiras à entrada de concorrentes:
+"Como é que eu protejo o meu playground?"
+Esta questão estratégica explora como organizações dominantes trabalham para proteger
+suas posições de mercado, utilizando instrumentos como regulação, tecnologia e relações
+privilegiadas.
+Américo Dias
+32
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+2.6
+Níveis de Concorrência
+A análise da concorrência é fundamental para compreender o ambiente competitivo em
+que uma organização opera.
+O Professor Luís Filipe Reis apresentou um modelo de
+classificação da concorrência em quatro níveis, que vai além da análise tradicional focada
+apenas em concorrentes diretos:
+"Concorrência pelo rendimento.
+Concorrência pelo tempo.
+Concorrência pela
+atenção."
+Esta perspetiva amplia significativamente o escopo da análise competitiva, reconhecendo
+que empresas aparentemente não relacionadas podem estar competindo indiretamente
+pelos mesmos recursos limitados do consumidor.
+C1
+Concorrência
+Direta
+C2
+Concorrência com
+Variações
+C3
+Concorrência Indireta
+C4
+Concorrência pelo
+Rendimento/Tempo/Atenção
+Ex: Renault Clio vs.
+Peugeot 206
+Ex: VW Golf vs. Mini Cooper
+Ex: Automóvel vs. Transporte Público
+Ex: Comprar Carro vs. Fazer MBA
+Figura 9: Os quatro níveis de concorrência
+Figura 10: Os quatro níveis de concorrência (dos slides)
+O modelo apresentado classifica a concorrência em quatro níveis distintos, com implicações
+estratégicas importantes:
+1. C1: Concorrência Direta - Produtos com características semelhantes que satis-
+fazem necessidades equivalentes
+Esta é a forma mais óbvia de concorrência, onde produtos ou serviços semelhantes
+competem diretamente pelo mesmo segmento de mercado. Por exemplo, o Renault
+Américo Dias
+33
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Clio compete diretamente com o Peugeot 206, pois ambos são automóveis compactos
+que atendem às mesmas necessidades de transporte.
+2. C2: Concorrência com Variações - Produtos com necessidades equivalentes mas
+com variações significativas
+Neste nível, os produtos atendem às mesmas necessidades básicas, mas oferecem
+diferentes configurações ou propostas de valor. Por exemplo, um Volkswagen Golf
+e um Mini Cooper atendem à necessidade de transporte, mas com posicionamentos
+e características distintas.
+3. C3: Concorrência Indireta - Produtos totalmente diferentes que satisfazem ne-
+cessidades semelhantes
+A concorrência indireta ocorre quando produtos completamente diferentes atendem
+parcialmente às mesmas necessidades. Por exemplo, um automóvel e o transporte
+público atendem à necessidade de mobilidade urbana, embora sejam soluções fun-
+damentalmente diferentes.
+4. C4: Concorrência pelo Rendimento/Tempo/Atenção - Produtos e necessi-
+dades diferentes que competem pelos mesmos recursos do consumidor
+Este é o nível mais abrangente de concorrência, onde produtos e serviços aparente-
+mente não relacionados competem pelos recursos limitados do consumidor (dinheiro,
+tempo, atenção). Por exemplo, a decisão entre comprar um automóvel ou investir
+num curso de MBA representa uma escolha de alocação de recursos financeiros em
+categorias completamente distintas.
+"Tudo é concorrência. Até mesmo a decisão entre fazer um MBA ou comprar uma
+casa."
+Compreender estes quatro níveis de concorrência permite às organizações uma visão mais
+abrangente do seu verdadeiro ambiente competitivo, identificando ameaças e oportunida-
+des que poderiam passar despercebidas numa análise tradicional focada apenas na con-
+corrência direta.
+2.7
+Capacidades Estratégicas
+A segunda parte da aula focou-se na análise de capacidades internas, utilizando o fra-
+mework de Gary Hamel que divide capacidades estratégicas em três categorias:
+1. Ativos Críticos - Recursos tangíveis e intangíveis essenciais para o sucesso da
+organização
+"A criticidade é aquilo que nos garante poder gerar valor."
+Os ativos críticos podem não estar refletidos nos balanços financeiros tradicionais,
+como a marca da Apple, que é um ativo intangível de valor incalculável.
+2. Competências Distintivas - Habilidades e capacidades que diferenciam a organi-
+zação dos concorrentes
+Américo Dias
+34
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"Competências distintivas são aquilo que somos capazes de fazer, que nos
+faz ser diferentes e gera valor."
+No caso da Apple, o ecossistema integrado, o design e a experiência do utilizador
+são exemplos de competências distintivas.
+3. Relações Privilegiadas - Conexões e parcerias que proporcionam vantagens com-
+petitivas
+A relação da Apple com seus fãs leais e sua rede de fornecedores representam relações
+privilegiadas difíceis de replicar.
+2.8
+Avaliação de Recursos: O Modelo VRIN
+V
+VALUABLE
+R
+RARE
+I
+INIMITABLE
+N
+NON
+SUBSTITUTABILITY
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+SUSTAINED
+COMPETITIVE
+ADVANTAGE
+YES
+COMPETITIVE
+DISADVANTAGE
+COMPETITIVE
+PARITY
+TEMPORARY
+COMPETITIVE
+ADVANTAGE
+UNUSED
+COMPETITIVE
+ADVANTAGE
+Figura 11: Framework VRIN para análise de capacidades estratégicas
+Para avaliar a robustez e sustentabilidade das capacidades estratégicas, foi apresentado o
+modelo VRIN, que examina se os recursos são:
+• Valiosos (Value) - Criam valor significativo para a organização e seus clientes
+• Raros (Rarity) - Não estão amplamente disponíveis para os concorrentes
+• Inimitáveis (Inimitability) - Difíceis ou impossíveis de copiar
+• Não substituíveis (Non-substitutionability) - Não podem ser facilmente substituídos
+por alternativas
+"Para ser fácil é preciso ser muito bom atrás."
+Esta observação destaca que a aparente simplicidade de muitos produtos ou serviços
+bem-sucedidos frequentemente esconde uma complexidade significativa e capacidades dis-
+tintivas subjacentes.
+2.9
+Cultura Organizacional como Elemento Estratégico
+A última parte da aula abordou a importância da cultura organizacional como elemento
+fundamental da posição estratégica:
+Américo Dias
+35
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"A cultura, culture with strategy for breakfast."
+Esta adaptação da famosa frase atribuída a Peter Drucker ("Culture eats strategy for
+breakfast") ressalta que mesmo as estratégias mais brilhantes podem falhar quando não
+estão alinhadas com a cultura organizacional.
+PARADIGMA
+CULTURAL
+HISTÓRIAS
+E MITOS
+SÍMBOLOS
+ESTRUTURAS
+DE PODER
+ESTRUTURAS
+ORGANIZACIONAIS
+SISTEMAS
+DE CONTROLE
+RITUAIS
+E ROTINAS
+SISTEMAS DE
+RECOMPENSA
+VALORES
+DECLARADOS
+"Culture eats strategy for breakfast."
+A cultura é crítica para a implementação de estratégias organizacionais.
+Figura 12: A teia cultural de uma organização
+Foram apresentados os seis elementos da "teia cultural"que ajudam a analisar a cultura
+de uma organização:
+1. Histórias e Mitos - Narrativas que circulam e comunicam os valores
+2. Símbolos - Representações visuais da identidade organizacional
+3. Estruturas de Poder - Relações de poder formais e informais
+4. Estruturas Organizacionais - Como a organização é formalmente estruturada
+5. Sistemas de Controle - Processos que monitorizam e regulam comportamentos
+6. Rituais e Rotinas - Práticas diárias e eventos recorrentes
+"In the absence of information, people link the dots in the most pathological way."
+Esta observação destaca a importância da comunicação clara e transparente na gestão da
+cultura organizacional, sublinhando como a ausência de informação pode levar a interpre-
+tações negativas e desalinhamento cultural.
+2.10
+Conclusão e Ponte para a Próxima Aula
+O professor encerrou destacando que a análise da posição estratégica é a base fundamental
+para as escolhas estratégicas futuras. Uma compreensão clara do contexto, capacidades e
+Américo Dias
+36
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+cultura organizacional é essencial para responder à primeira pergunta estratégica ("Onde
+estamos e o que defendemos?") antes de avançar para a segunda pergunta ("Para onde
+vamos e porquê?"), que será o foco das próximas aulas.
+"A percepção das pessoas pode ser influenciada por aspectos culturais, focando em
+detalhes superficiais."
+Esta reflexão final conecta os elementos de análise externa (percepção do mercado) com
+os elementos internos (cultura organizacional), ressaltando como a lente cultural influen-
+cia não apenas como as organizações se veem, mas também como são vistas pelos seus
+stakeholders.
+Américo Dias
+37
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+3
+Aula 3 - Direção Estratégica
+3.1
+Introdução à Direção Estratégica
+Na terceira aula, o Professor Luís Filipe Reis abordou a direção estratégica, ou o caminho
+estratégico, que segue após a compreensão da posição estratégica. Esta etapa responde à
+segunda pergunta fundamental da estratégia: "Para onde vamos e porquê?". A aula foi
+estruturada em duas grandes partes: estratégias de primeiro nível (estratégias de negócio)
+e estratégias de segundo nível (estratégias corporativas).
+"Uma boa estratégia leva a organização toda a fazer um movimento com propósito,
+coordenado e eficiente."
+O professor começou por retomar brevemente as conclusões da aula anterior, relembrando
+que já haviam respondido à primeira pergunta estratégica ("Onde estamos e em que
+acreditamos?") através da análise de contexto, capacidades, cultura e propósito. Destacou
+ainda as etapas intermediárias entre a primeira e a segunda pergunta: a Análise SWOT,
+a definição de objetivos e o alinhamento organizacional.
+3.1.1
+Do Propósito à Estratégia
+O professor explicou a importância do propósito como um elemento crucial da posição
+estratégica, dividindo-o em três dimensões:
+• Visão - perspetiva aspiracional a longo prazo, mais subjetiva e projetiva
+• Missão - expressão concreta dos negócios e geografias onde a organização pretende
+atuar
+• Valores - expressão das crenças e comportamentos que a organização defende
+"Os comportamentos são muito mais reveladores daquilo que uma organização é,
+do que propriamente o que está escrito."
+Foi destacado que a visão é uma perspetiva mais subjetiva e aspiracional do propósito a
+longo prazo, enquanto a missão é mais concreta, instanciando o propósito numa geografia
+e num negócio específicos. Os valores, por sua vez, materializam-se nos comportamentos
+observados na organização.
+3.2
+Etapas Intermediárias entre Posição e Direção Estratégica
+Entre a pergunta sobre posição estratégica e a pergunta sobre direção estratégica, foram
+identificadas três etapas cruciais:
+3.2.1
+Análise SWOT
+A análise SWOT foi apresentada como uma ferramenta essencial para sintetizar a posi-
+ção estratégica numa única página, resumindo os elementos identificados na resposta à
+Américo Dias
+38
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+primeira pergunta:
+"A síntese da posição estratégica, feita com rigor, remete para isto.
+Forças e
+fraquezas são minhas. Estão dentro de uma organização."
+O professor enfatizou a importância da disciplina na construção da análise SWOT:
+• Forças e Fraquezas - devem derivar das capacidades, cultura e propósito da or-
+ganização (elementos internos)
+• Oportunidades e Ameaças - devem derivar da análise do contexto e da cultura
+externa (elementos externos)
+Fatores externos
+Fatores internos
+Forças (S)
+Fraquezas (W)
+Oportunidades
+(O)
+Ameaças
+(T)
+Opções Estratégicas SO
+Gerar opções aqui que usam
+forças para aproveitar
+oportunidades
+Opções Estratégicas WO
+Gerar opções aqui que
+aproveitam oportunidades
+superando fraquezas
+Opções Estratégicas ST
+Gerar opções aqui que usam
+forças para evitar ameaças
+Opções Estratégicas WT
+Gerar opções aqui que
+minimizam fraquezas e
+evitam ameaças
+Figura 13: Relação entre os elementos da posição estratégica e a análise SWOT
+3.2.2
+Definição de Objetivos
+O segundo passo intermediário envolve o estabelecimento de objetivos claros antes da
+definição das escolhas estratégicas:
+"Primeiro definam o objetivo e depois as escolhas estratégicas devem ser feitas em
+função do objetivo. Extremamente importante."
+O professor criticou o que chamou de "síndrome do gestor português- a tendência de
+primeiro agir e depois ajustar os objetivos ao resultado obtido ("primeiro atira uma seta
+e depois desenha um alvo"). Enfatizou a necessidade de disciplina estratégica, definindo
+primeiro os objetivos e só depois as escolhas estratégicas para os alcançar.
+3.2.3
+Objetivos Leading e Lagging
+Foi introduzida a distinção crucial entre dois tipos de objetivos:
+Américo Dias
+39
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Objetivos Lagging - focados no passado, informam sobre o que já aconteceu mas
+oferecem pouca projeção para o futuro (ex: indicadores financeiros como Return on
+Invested Capital, vendas)
+• Objetivos Leading - oferecem indicações sobre o futuro, permitindo projetar resul-
+tados (ex: satisfação de clientes, Net Promoter Score, objetivos de funil de vendas)
+"Um bom set de objetivos deve sempre que possível ter números que nos ajudem
+a prever o futuro."
+Foi destacado que muitas organizações vivem excessivamente focadas em indicadores lag-
+ging (olhando para o "retrovisor"), quando deveriam buscar um equilíbrio com indicadores
+leading que permitam antecipar tendências futuras.
+3.2.4
+Alinhamento Organizacional
+O terceiro elemento intermediário é o alinhamento, essencial para a implementação bem-
+sucedida da estratégia:
+"Uma boa estratégia requer alinhamento."
+Foi apresentado o modelo dos 7S da McKinsey como ferramenta para avaliar e promover
+o alinhamento organizacional:
+• Strategy (Estratégia) - direção e escopo da organização
+• Structure (Estrutura) - organização hierárquica e divisão de responsabilidades
+• Systems (Sistemas) - procedimentos formais e informais
+• Shared Values (Valores Compartilhados) - valores e crenças centrais
+• Skills (Competências) - capacidades distintivas da organização
+• Style (Estilo) - estilo de liderança e cultura organizacional
+• Staff (Pessoal) - pessoas e suas capacidades
+O professor enfatizou que a estratégia não pode ser implementada isoladamente, mas
+requer o alinhamento com todos os outros elementos do modelo.
+3.3
+Estratégias de Negócio (Business Strategies)
+A aula prosseguiu com a exploração das estratégias de negócio, organizadas em torno de
+perguntas fundamentais que orientam as escolhas estratégicas:
+Américo Dias
+40
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+BE ALIGNED
+Strategy
+Style
+Staff
+Skills
+Systems
+Structure
+Shared
+values
+Figura 14: O modelo 7S da McKinsey para alinhamento organizacional
+3.3.1
+Where to Play? (Onde Jogar?)
+A primeira pergunta estratégica refere-se à escolha dos mercados onde a organização
+pretende atuar:
+"Where to play? É uma escolha. Escolher onde é que vamos atuar. Nomeada-
+mente, em que mercados é que vamos atuar."
+Esta escolha envolve identificar e selecionar os mercados mais atrativos para a organização,
+considerando critérios como dimensão, crescimento e retorno potencial.
+3.3.2
+Right to Play? (Direito de Jogar?)
+A segunda pergunta refere-se à legitimidade da organização para atuar nesses mercados:
+"Temos o direito, ou não, de jogar? Temos o right to play? Eu até posso gostar
+muito deste mercado. Mas posso ir para este mercado?"
+Esta questão avalia se a organização possui as capacidades, recursos e posicionamento
+necessários para competir efetivamente nos mercados escolhidos. Não basta identificar
+mercados atrativos; é preciso verificar se a organização tem condições de sucesso nesses
+mercados.
+3.3.3
+How to Play? (Como Jogar?)
+A terceira pergunta foca-se no modo de atuação nesses mercados:
+"Como jogar? Vou jogar como? Como é que me vou apresentar a jogo?"
+Américo Dias
+41
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Esta pergunta aborda a estratégia genérica que a organização adotará nos mercados es-
+colhidos, considerando posicionamento e abordagem competitiva.
+3.3.4
+How to Play Differently? (Como Jogar Diferente?)
+A quarta pergunta enfatiza a necessidade de diferenciação:
+"Stand out ou be deaf? A lâmpada branca na imagem lá das lâmpadas minhas
+pretas."
+Esta questão destaca a importância de desenvolver uma proposta de valor única que
+diferencie a organização dos concorrentes, criando vantagem competitiva sustentável.
+3.3.5
+How to Play Along the Time? (Como Jogar ao Longo do Tempo?)
+A quinta pergunta aborda a dimensão temporal da estratégia:
+"A minha estratégia vai ser sempre igual ao longo do tempo ou não? Ou eu vou
+ter que me adaptar ao tempo?"
+Esta pergunta reconhece que as estratégias não são estáticas e devem evoluir conforme as
+mudanças no mercado, no ciclo de vida dos produtos e nas condições competitivas.
+3.4
+Ferramentas para Estratégias de Negócio
+O professor apresentou ferramentas específicas para responder a cada uma das perguntas
+estratégicas:
+3.4.1
+Matriz de Ashridge para Where to Play e Right to Play
+Para responder às duas primeiras perguntas estratégicas fundamentais - "Where to Play?"(Onde
+jogar?) e "Do I have the Right to Play?"(Tenho o direito de jogar?) - o professor apre-
+sentou a matriz de Ashridge como uma ferramenta analítica rigorosa e sistemática:
+"É uma ferramenta extremamente quantitativa. Ajuda a escolher mercados com
+uma dimensão absoluta. E eu vou tentar explicá-la devagarinho, mas ela é rela-
+tivamente straight-forward. Não é depois... Quer dizer, é preciso ter capacidade
+para encontrar os dados. Mas eles existem. Posso vos garantir? Já apliquei."
+A matriz de Ashridge foi desenvolvida por Andrew Campbell e outros consultores desta
+escola de negócios. O professor destacou sua experiência direta com esta ferramenta:
+"Um dos consultores é o senhor chamado Andrew Campo, o Andrew Campo, eu
+conheci o Andrew Campo. Aplicámos esta ferramenta em ciclos de planeamento
+estratégico no grupo C."
+A matriz avalia diferentes indústrias ou segmentos de negócio através de duas dimensões
+fundamentais:
+Américo Dias
+42
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Figura 15: Estrutura e dimensões da Matriz de Ashridge
+1. Eixo Vertical: Atratividade da Indústria - Esta dimensão mede o quão atrativo
+é determinado setor ou indústria, independentemente da posição atual da organi-
+zação nele. É avaliada através de três fatores principais, cada um com peso igual
+(33,3%):
+• Contexto macroeconómico - Avalia as condições gerais da economia que
+influenciam o setor:
+"O contexto macroeconómico é o contexto macroeconómico para a in-
+dústria e para a geografia que se estiver a escolher. Porque não há... A
+independência entre uma indústria e uma geografia pode ser o contexto
+macroeconómico global, se vocês estiverem a atuar numa indústria glo-
+bal, pode ser o contexto macroeconómico europeu, se estiverem a atuar
+na Europa, ou português, se estiverem a atuar na Europa, ou não, se
+estiverem a atuar na Alemanha."
+Inclui análise de indicadores como crescimento do produto, rendimento dis-
+ponível das famílias, inflação e desemprego, com ponderações específicas para
+cada setor.
+• Retorno setorial - Analisa a rentabilidade média do setor, utilizando prefe-
+rencialmente o ROIC (Return on Invested Capital):
+"Retorno setorial, dependendo das análises, é feito com, normalmente,
+Return on Invested Capital, que é um indicador que existe publicado
+across sectors mais frequente. [...] Há estatísticas transversais que dão
+ROICs por setor."
+Alternativamente, podem ser usados ROE (Return on Equity) ou ROA (Return
+on Assets), dependendo dos dados disponíveis para cada indústria.
+Américo Dias
+43
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Crescimento industrial - Avalia a taxa de crescimento atual e projetada
+para o setor, indicando seu potencial de expansão futura.
+2. Eixo Horizontal:
+Posição Competitiva (Right to Play) - Esta dimensão
+avalia a capacidade atual ou potencial da organização para competir efetivamente
+na indústria escolhida. É composta por três elementos principais:
+• Cota de mercado relativa - Para empresas já presentes no mercado, mede
+a participação de mercado em relação aos principais concorrentes, indicando
+força competitiva relativa.
+• Retorno relativo - Compara o retorno sobre capital investido da organização
+com a média do setor e principais concorrentes:
+"Retorno, on invested capital, o meu, em relação ao retorno dos meus
+concorrentes, nem sempre se consegue dos concorrentes, mas normal-
+mente consegue-se de alguns concorrentes e consegue-se sobretudo o
+retorno do mercado médio do setor, portanto eu consigo-me comparar,
+estou melhor, estou a meio ou estou pior que os meus concorrentes."
+• Grau de preparação para os fatores críticos de sucesso - Uma avalia-
+ção mais qualitativa da capacidade da organização para executar nos fatores
+determinantes para o sucesso no setor:
+"A única dimensão mais qualitativa que é o grau de preparação que
+eu tenho, e aqui é subjetivo, para os key success factors. Eu tenho
+que determinar indústria das peças dos automóveis, key success fac-
+tors, inovação, preço, grau de fiabilidade, aqueles graus de qualidade à
+saída da fábrica, prazo de entrega, porém, eu vou definir um conjunto
+de fatores de sucesso e depois vou-me medir e a esse objetivo vou-me
+atribuir uma nota relativamente a esses fatores críticos para suceder
+no mercado."
+A matriz resultante divide-se em quatro quadrantes estratégicos, cada um sugerindo uma
+abordagem distinta:
+1. Estrelas (Stars) - Setores com alta atratividade onde a organização possui forte
+posição competitiva. Representam as oportunidades de negócio ideais para inves-
+timento e crescimento, pois combinam alto potencial de mercado com capacidade
+comprovada para capturá-lo.
+2. Question Marks (Pontos de Interrogação) - Setores altamente atrativos, mas
+onde a organização ainda não desenvolveu uma posição competitiva forte. Requerem
+análise cuidadosa para determinar se o investimento necessário para fortalecer a
+posição competitiva justifica-se pelo potencial de mercado.
+3. Cash Cows (Vacas Leiteiras) - Setores com menor atratividade, mas onde a
+organização mantém uma posição competitiva sólida. Representam negócios que,
+embora possam não oferecer grande potencial de crescimento, geram fluxos de caixa
+consistentes que podem financiar investimentos em áreas mais promissoras.
+Américo Dias
+44
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Figura 16: Interpretação estratégica dos quadrantes da Matriz de Ashridge
+4. Dogs (Cães) - Setores com baixa atratividade onde a organização não possui posi-
+ção competitiva forte. Geralmente candidatos à desinvestimento ou reestruturação
+radical, a menos que existam razões estratégicas específicas para mantê-los.
+O professor enfatizou a importância prática desta ferramenta para decisões estratégicas,
+particularmente para identificar negócios que devem receber investimento ou, inversa-
+mente, candidatos ao desinvestimento:
+"Esta ferramenta serve. Também nos ajuda, esta ferramenta ajuda-nos a dizer,
+eu estou na merda, afinal, não presto, imagina que você, as indústrias onde está,
+são todas uma porcaria, e você não tem cota de mercado, não tem retornos men-
+suráveis, e também não está preparado... fica aqui neste quadrado, epá, isto é um
+desastre."
+O professor também destacou como a matriz deve ser aplicada com sensibilidade e julga-
+mento contextual, não apenas mecanicamente:
+"Nada em gestão substitui a sensibilidade, nada, pois estas coisas têm que ser todas
+comparáveis, você pode ter uma micro cota de mercado, mas tem uma retornidade
+muito alta, e às vezes até tem que redefinir o mercado que está a dizer, porque o
+seu... O mercado pode ser definido em função daquilo que você quer fazer."
+Esta observação sublinha que, embora a matriz forneça um quadro analítico rigoroso,
+sua aplicação requer interpretação sofisticada e adaptação ao contexto específico de cada
+organização.
+Américo Dias
+45
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+3.4.2
+Estratégias Genéricas de Porter para How to Play
+Para responder à terceira pergunta (como jogar), foi apresentado o modelo das Estratégias
+Genéricas de Porter:
+"O porta baseia a estrutura um bocadinho contra esta matriz do porta. O que nós
+vamos ver, primeiro, é como é que jogamos genericamente."
+"Ou são diferentes, ou são baratos. É muito simplesmente o que o Porter diz."
+O modelo de Porter identifica duas dimensões estratégicas fundamentais:
+• Escopo do Mercado - amplo vs. estreito (nicho)
+• Vantagem Competitiva - diferenciação vs. custo
+Estas dimensões resultam em quatro estratégias genéricas:
+• Liderança de Custo - competir em mercado amplo com base em custos baixos
+• Diferenciação - competir em mercado amplo com base em características distinti-
+vas
+• Foco em Custo - competir em nicho com base em custos baixos
+• Foco em Diferenciação - competir em nicho com base em características distin-
+tivas
+VANTAGEM COMPETITIVA
+Target Competitivo
+Amplo
+Estreito
+Custo mais Baixo
+Diferenciação
+LIDERANÇA DE
+CUSTO
+(Cost Leadership)
+DIFERENCIAÇÃO
+(Differentiation)
+FOCO EM
+CUSTO
+(Cost Focus)
+FOCO EM
+DIFERENCIAÇÃO
+(Differentiation Focus)
+Figura 17: Estratégias Genéricas de Porter
+O professor enfatizou a dinâmica competitiva do modelo, ilustrando com o que chamou
+de "Deep Shit Valley":
+Américo Dias
+46
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"Ou ganham pelo preço, ou ganham pela diferença, ou estão na merda."
+Quota de Mercado / Escala
+Retorno sobre Capital
+Baixa
+Alta
+Baixo
+Alto
+Liderança
+em Custo
+Foco em
+Diferenciação
+Deep Shit Valley
+"A zona da merda"
+Papel higiénico industrial
+(baixo custo, grandes volumes)
+Papel higiénico de luxo (Renova)
+(diferenciação, nicho premium)
+HP/Lenovo
+(grande escala)
+Apple
+(diferenciação, alta margem)
+Empresas "presas no meio"
+(sem clara diferenciação nem liderança em custos)
+O Dilema Estratégico
+As empresas bem-sucedidas ou criam vantagem por diferenciação clara
+ou por liderança em custos. Empresas "no meio" têm desempenho inferior.
+Figura 18: O Vale da Merda
+"Ou ganham pelo preço, ou ganham pela diferença, ou estão na merda. É esse o
+conceito."
+Esta metáfora ilustra que as empresas que não conseguem estabelecer uma posição clara,
+seja de liderança em custo ou de diferenciação, ficam presas numa posição estratégica
+insustentável, onde são vulneráveis aos concorrentes de ambos os extremos.
+Foi destacado que as indústrias tendem a pressionar as empresas para o "meio", mas as
+estratégias bem-sucedidas resistem a essa pressão, mantendo posicionamentos claros e
+consistentes.
+"A estratégia da Apple é a melhor demonstração de que com uma cota de mercado
+pequeno, podes ter um retorno sobre capitais empregados muito elevado."
+Foram apresentados exemplos de várias indústrias, incluindo computadores pessoais (com
+Apple, Dell, HP e Lenovo) e papel higiénico (desde produtos básicos até produtos premium
+como o papel preto da Renova).
+3.4.3
+Value Curves para How to Play Differently
+Para responder à quarta pergunta (como jogar diferente), o professor apresentou o modelo
+das Value Curves (Curvas de Valor) de Chan Kim e Renée Mauborgne:
+"É preciso buscar a diferença. Busca-se a diferença aonde? Nos consumidores."
+Este modelo envolve três elementos fundamentais:
+• Value Customers - identificar quem são os clientes que geram valor para a orga-
+nização
+• Value Proposition - definir o que a organização oferece a esses clientes
+• Value Network - determinar como esse valor é entregue
+Américo Dias
+47
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+O professor ilustrou o modelo com o exemplo das companhias aéreas low-cost, particular-
+mente a Ryanair, que redefiniu seus clientes-alvo:
+"A Ryanair definiu os consumidores como... Target... O meu target são, Pessoas
+que pagam o bilhete do próprio bolso."
+Por contraposição aos clientes de negócios das companhias tradicionais, que têm seus
+bilhetes pagos pelas empresas, a Ryanair focou-se em passageiros que pagam do próprio
+bolso, estando dispostos a aceitar menos conforto em troca de preços mais baixos.
+O modelo de Curvas de Valor envolve:
+• Listar exaustivamente os fatores de competição no mercado
+• Classificar os concorrentes em cada fator numa escala de 1 a 5
+• Identificar padrões e oportunidades para diferenciação
+Proposta de valor
+1
+2
+3
+4
+5
+Segurança
+Fiabilidade
+Horário
+Tempo
+Directo
+Custo
+Tempo embarque
+Conforto
+Comida
+Factores Competitivos
+Lufthansa
+Ryanair
+Figura 19: Exemplo de Curvas de Valor comparando Lufthansa e Ryanair
+3.5
+Modelo de Negócio da Ryanair
+O professor aprofundou a análise do modelo de negócio da Ryanair como exemplo de uma
+estratégia claramente diferenciada:
+Américo Dias
+48
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"O que é que eles estão a fazer? Estão a jogar no negócio, estão a retirar os
+ativos, passando-se a fazer aquele modelo de negócio."
+Foram destacados vários elementos deste modelo:
+3.5.1
+Gestão de Ativos
+• Minimização de ativos no balanço (aviões em leasing em vez de propriedade)
+• Alta rotação dos ativos (maximização do tempo de voo por avião)
+• Padronização da frota (todos os aviões iguais para facilitar manutenção e operação)
+3.5.2
+Maximização de Receitas
+• Maximização da densidade de assentos (redução do espaço entre cadeiras)
+• Transformação de custos em receitas (cobrança por bagagem, marcação de lugares,
+embarque prioritário)
+• Criação de receitas adicionais (vendas a bordo, publicidade, parcerias)
+3.5.3
+Redução de Custos
+• Minimização de custos operacionais (handling básico, ausência de limpeza entre
+voos)
+• Uso de aeroportos secundários com taxas mais baixas
+• Modelo de contratação de pessoal (tripulações locais, muitos como prestadores de
+serviços)
+"O name of the game numa empresa de capital intensivo, que é o caso, é a rotação
+do ativo."
+O professor enfatizou como todo o modelo de negócio da Ryanair foi construído para
+entregar a sua proposta de valor distintiva: voos a preços muito baixos para passageiros
+que pagam do próprio bolso, dispostos a abdicar de conforto e conveniência em troca de
+economia.
+3.6
+Conclusão e Próximos Passos
+O professor concluiu a aula com uma síntese dos tópicos abordados e uma prévia do que
+seria discutido na próxima sessão:
+"Curvas de valor. O que é que nós estamos a dizer? É preciso buscar a diferença.
+Busca-se a diferença aonde? Nos consumidores."
+Os tópicos principais da aula foram:
+Américo Dias
+49
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Análise SWOT, objetivos e alinhamento como ponte entre posição e direção estra-
+tégica
+• As cinco perguntas estratégicas: Where to Play, Right to Play, How to Play, How
+to Play Differently, How to Play Along the Time
+• Ferramentas para responder a estas perguntas: Matriz de Ashridge, Estratégias
+Genéricas de Porter, Value Curves
+• Modelo de negócio da Ryanair como exemplo de estratégia claramente diferenciada
+Para a próxima aula, o professor adiantou que seria abordada a gestão do tempo na
+estratégia (How to Play Along the Time), usando o exemplo da evolução da indústria de
+fraldas descartáveis para ilustrar como as estratégias devem ser adaptadas ao longo do
+ciclo de vida dos produtos e mercados.
+"Uma boa estratégia leva depois a organização toda a fazer um movimento com
+propósito, coordenado e eficiente."
+Esta conclusão reforçou a ideia central da aula: a estratégia não é apenas sobre escolher
+mercados e definir posicionamentos, mas sobre criar um movimento coordenado de toda a
+organização numa direção deliberada e coerente, capaz de criar valor sustentável ao longo
+do tempo.
+Américo Dias
+50
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+4
+Aula 4 - Estratégias Corporativas e Portfólio
+4.1
+Introdução às Estratégias Corporativas
+Na quarta aula, o Professor Luís Filipe Reis abordou as estratégias corporativas e a gestão
+de portfólio, focando-se nas decisões que as organizações enfrentam ao nível corporativo.
+A aula iniciou-se com uma revisão da estrutura geral do curso, consolidando o que já
+havia sido discutido nas aulas anteriores e introduzindo novos conceitos estratégicos.
+"O conhecimento só ocupa esse lugar de conhecimento, pois na prática, às vezes,
+dança a música de acordo com a lógica."
+Esta aula dividiu-se em duas grandes partes: na primeira parte, concluiu-se a discussão
+sobre estratégias primárias e secundárias, com foco na transformação de procura primária
+em procura real; na segunda parte, introduziram-se as estratégias corporativas e os seus
+componentes principais.
+4.2
+Estratégias Primárias: Transformação da Procura
+O Professor começou abordando as estratégias primárias, que focam na transformação da
+procura primária (latente ou potencial) em procura real.
+"Quanto mais rápida for a transformação de procura latente e procura potencial
+em procura real, mais bem sucedida é a estratégia."
+4.2.1
+Fases da Estratégia Primária
+A estratégia primária desdobra-se em três fases distintas:
+1. Fase 1: Introdução e Apresentação - Foca-se na apresentação do produto ou
+serviço e na remoção de bloqueios à sua adoção. Nesta fase, o objetivo fundamental
+é introduzir o produto ao mercado e criar notoriedade.
+"Na fase 1, é continuar a ser extraordinariamente eficaz, trazer clientes para
+o mercado, retirar-lhes sequer o tema do preço."
+Uma estratégia importante nesta fase é retirar o preço da equação, recorrendo a
+amostras gratuitas ou ao modelo freemium para facilitar a experimentação. O pro-
+fessor mencionou esta abordagem como particularmente eficaz em serviços digitais
+como Spotify e Netflix.
+2. Fase 2:
+Aceleração e Crescimento - Visa expandir rapidamente o mercado
+real, trazendo mais clientes potenciais para o consumo efetivo.
+Nesta fase, são
+implementadas três estratégias principais:
+• Aumento da disponibilidade do produto através de distribuição mais ampla
+• Redução do preço, tornando o produto mais acessível
+Américo Dias
+51
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Eliminação das últimas barreiras sociológicas à adoção
+"Portanto, nós falámos daquelas três dimensões. Economia de escala, abun-
+dância e aumento da distribuição. Aumento da disponibilidade. Tornar o
+produto mais acessível."
+3. Fase 3: Expansão do Mercado Potencial - Esta fase, mais rara, procura au-
+mentar o mercado potencial total. O professor discutiu a dificuldade inerente a esta
+fase, usando o exemplo do mercado de fraldas.
+4.2.2
+Caso de Estudo: O Mercado de Fraldas
+Para ilustrar a implementação das estratégias primárias, o professor utilizou o exemplo
+do mercado de fraldas descartáveis em Portugal:
+• Aumentar o Mercado Potencial Total: Discutiu-se a função matemática para
+calcular o mercado potencial total de fraldas:
+Mercado Potencial = 365 dias × Número de Crianças × Número de Fraldas por Dia
+• Estratégia da Dodot: A marca Dodot realizou uma campanha focada na hi-
+dratação dos bebés, que levou ao aumento do consumo de água pelos bebés e,
+consequentemente, ao aumento do uso de fraldas.
+"O que é que a Dodote se lembrou de fazer? Não. A Dodote fez uma enorme
+campanha. Uma enorme campanha de que vocês são já hoje vítimas. Vocês
+são vítimas de uma campanha que a Dodote fez. Se chama... Lá na campa-
+nha da prega, foi uma campanha feita para toda a gente andar a fazer prega
+na pele dos bebés, para ver se a pele dos bebés estava bem hidratada ou não
+estava bem hidratada."
+Esta campanha visava promover o consumo de água pelos bebés, aumentando a
+necessidade do uso de fraldas.
+O professor explicou como, ao promover a hidratação dos bebés através de campanhas
+dirigidas a médicos e parteiras, a Dodot conseguiu aumentar indiretamente o consumo
+de fraldas. Esta estratégia exemplifica como uma empresa pode influenciar o mercado
+potencial total através de mudanças no comportamento do consumidor.
+"Mais água por cima, xixi por baixo. Mais fralda."
+4.3
+Estratégias Corporativas
+Após concluir a discussão sobre estratégias primárias, o professor introduziu o tema das
+estratégias corporativas, definindo-as como decisões de nível superior que orientam a
+empresa como um todo.
+"Agora vamos passar para corporate strategies. E aqui vamos tentar responder a
+quatro perguntinhas. Quatro grandes decisões."
+Américo Dias
+52
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+As quatro grandes decisões estratégicas ao nível corporativo foram apresentadas:
+1. Como e onde diversificar?
+2. Como lidar com o momento mercado-produto dos negócios?
+3. Como gerir o portfólio de negócios?
+4. Como influenciar o portfólio de negócios?
+O professor salientou que estas estratégias, embora tipicamente associadas ao nível cor-
+porativo, também podem ser aplicadas dentro de um negócio específico, a um conjunto
+de produtos diferentes.
+4.4
+Diversificação
+A primeira grande decisão corporativa discutida foi a diversificação, definida como o
+alargamento das fronteiras do negócio para entrar num território diferente.
+"Diversificação é o alargamento das fronteiras do negócio, entrando num negócio
+diferente, num território de negócio diferente."
+4.4.1
+Tipos de Diversificação
+Foram apresentados dois tipos fundamentais de diversificação:
+• Diversificação Relacionada - Envolve entrar em negócios com alguma ligação
+aos negócios atuais da empresa. Esta pode ser:
+– Ao longo da cadeia de valor:
+∗Diversificação a montante (backward integration) - Entrar em negócios
+que são fornecedores do negócio atual (ex: uma empresa de bolachas que
+compra uma fábrica de moagem)
+∗Diversificação a jusante (forward integration) - Entrar em negócios que são
+clientes do negócio atual
+– Por adjacência ou alargamento - Entrar em negócios relacionados que
+aproveitam competências existentes (ex: uma empresa de bolachas que entra
+no negócio de barras energéticas)
+• Diversificação Não Relacionada (Conglomerado) - Envolve entrar em negó-
+cios completamente diferentes dos atuais, sem relações evidentes.
+"A não-relacionada stands for it, quer dizer, é diversificação para territórios,
+para negócios completamente diferentes daqueles onde eu estou."
+O professor usou o exemplo da Sonae, que diversificou para setores sem relação
+aparente, e da Virgin, que possui negócios extremamente diversos, desde companhias
+aéreas até viagens espaciais.
+Américo Dias
+53
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Diversiﬁcação
+Alargamento das fronteiras
+do negócio
+Diversiﬁcação
+Não Relacionada
+(Conglomerado)
+Negócios completamente
+diferentes
+Ao longo da
+cadeia de valor
+A montante
+(backward integration)
+A jusante
+(forward integration)
+Por adjacência
+ou alargamento
+Aproveita competências
+existentes em negócios
+relacionados
+Exemplos
+Relacionada:
+- Fábrica de bolachas compra
+uma fábrica de moagem
+Não Relacionada:
+- Virgin (companhias aéreas,
+viagens espaciais, etc.)
+Diversiﬁcação
+Relacionada
+Ligação aos negócios atuais
+Figura 20: Tipos de diversificação e suas características
+4.4.2
+Motivações para a Diversificação
+Foram discutidas várias motivações que levam as empresas a diversificar:
+• Explorar economias de escala e de conhecimento
+• Aplicar competências de gestão a novos contextos
+• Explorar processos internos superiores
+• Aumentar poder de mercado
+• Criar sinergias entre negócios
+• Diluir risco (embora o professor tenha alertado que esta motivação raramente produz
+bons resultados)
+"Diversificação para diluir risco. É relativamente importante parar aqui por uns
+segundos.
+Há muitos movimentos de diversificação baseados num tema que é
+intuitivo e que é verdadeiro, que é... Eu não devo ter os ovos todos dentro do
+mesmo cesto."
+O professor enfatizou que a diluição de risco, embora intuitivamente apelativa, frequen-
+temente não produz os melhores resultados em termos de criação de valor.
+Américo Dias
+54
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+4.4.3
+Atividades que Acrescentam e Destroem Valor
+O professor discutiu como as equipas corporativas podem adicionar ou destruir valor nas
+suas subsidiárias:
+• Atividades que acrescentam valor:
+– Garantir a cola cultural e o alinhamento estratégico
+– Proporcionar suporte à reflexão estratégica
+– Serviços partilhados que geram eficiências
+• Atividades que destroem valor:
+– Complexidade de gestão excessiva
+– Burocracia desnecessária
+– Falta de transparência financeira
+"O problema da diversificação em conglomerados vem de management complexity,
+bureaucracy and lack of financial transparency. Estas três são fatais."
+4.5
+Avaliação de Conglomerados
+Um tema importante abordado foi a avaliação de conglomerados e a razão pela qual estes
+frequentemente são desvalorizados pelos mercados financeiros.
+4.5.1
+Métodos de Avaliação
+O professor apresentou a metodologia "Sum of the Parts"para avaliar conglomerados, que
+envolve:
+1. Avaliar cada negócio individualmente usando metodologias como:
+• Discounted Cash Flows (DCF)
+• Market Multiples (múltiplos de EBITDA, vendas, etc.)
+• Transações comparáveis
+2. Somar o valor de todas as partes, ponderando pelas percentagens de participação
+3. Subtrair os custos de funcionamento do conglomerado (holding)
+"O valor... O conglomerado, em tese, é obtido pela soma das partes. É a metodo-
+logia para fazer isso, é somar o que se tem."
+Américo Dias
+55
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+4.5.2
+O Desconto de Conglomerado
+O professor explicou o fenómeno do "desconto de conglomerado", onde o mercado tende
+a valorizar conglomerados abaixo da soma das suas partes:
+"Normalmente, o mercado valoriza. Como o mercado valoriza? Tem as imper-
+feições próprias da assimetria de informação. O mercado, às vezes, valoriza uma
+empresa determinada acima ou abaixo dos seus descalços e de caixa de valor. (...)
+Mas, normalmente, os mercados aplicam um desconto com o moderado que anda
+entre os 15% e os 25%."
+As razões para este desconto incluem:
+• Os mercados de capitais estruturam-se setorialmente, preferindo investir direta-
+mente em setores específicos
+• Perceção de incompetência na gestão centralizada
+• Falta de transparência financeira, dificultando a avaliação correta dos negócios in-
+dividuais
+4.5.3
+Exemplos de Conglomerados
+O professor apresentou casos de conglomerados com diferentes resultados:
+• Casos de insucesso:
+– Sonae - Vale o mesmo há vários anos, com negócios que valem mais que a
+própria holding
+• Casos de sucesso:
+– Amazon - Mantém controlo sobre diversas áreas de negócio, impedindo acesso
+direto dos investidores
+– Danaher - Empresa industrial com metodologia eficaz de aquisição e transfor-
+mação de empresas
+• Holdings familiares - Tendem a acrescentar valor ao proporcionarem estabilidade
+às organizações
+"A Amazon é um excelente exemplo de uma empresa que vale ela mais do que a
+sua empresa. Porquê? Porque ela é dona das partes todas e não deixa ninguém
+entrar nas partes."
+4.6
+Estratégias de Produto-Mercado
+O professor apresentou a Matriz de Ansoff como ferramenta para analisar estratégias de
+produto-mercado:
+A matriz identifica quatro quadrantes estratégicos:
+Américo Dias
+56
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Produtos Existentes
+Novos Produtos
+Mercados Existentes
+Novos Mercados
+Penetração de Mercado
+Taxa de Sucesso: 70%
+Horizonte 1: Defender
+Menor risco
+Desenvolvimento de Produto
+Taxa de Sucesso: 35%
+Horizonte 2: Desenvolver
+Risco moderado
+Desenvolvimento de Mercado
+Taxa de Sucesso: 30%
+Horizonte 2: Desenvolver
+Risco signiﬁcativo
+Diversiﬁcação
+Taxa de Sucesso: 20-30%
+Horizonte 3: Semear
+Maior risco
+Uma estratégia equilibrada atua nos três horizontes simultaneamente
+A taxa de sucesso diminui conforme aumenta a distância do negócio atual
+Figura 21: Matriz de Ansoff para estratégias de produto-mercado
+1. Penetração de Mercado - Crescer com produtos existentes em mercados existen-
+tes
+"Onde é que temos mais sucesso? [...] A London Museum, a escola onde eu
+vou estudar isto, chegou a conclusão, foi para aí a 100 empresas, e analisou
+umas 2000 decisões estratégicas. E uns anos mais tarde foi lá ver como é
+que era. Resultado, aqui, deu 70% de sucesso."
+O professor explicou que este quadrante tem a maior taxa de sucesso (cerca de 70%)
+porque a empresa está a operar com o que já conhece.
+2. Desenvolvimento de Produto - Introduzir novos produtos em mercados existen-
+tes
+Este quadrante tem uma taxa de sucesso média (cerca de 35%), sendo mais arriscado
+que a penetração mas mais seguro que as outras opções.
+3. Desenvolvimento de Mercado - Entrar em novos mercados com produtos exis-
+tentes
+"É muito mais fácil lançar um produto novo, construir um produto novo,
+posicioná-lo, precificá-lo. É mais fácil meter isso num mercado que eu já
+conheço, do que pegar num produto que eu conheço muito bem e pô-lo fora
+do mercado."
+Este quadrante tem uma taxa de sucesso inferior (cerca de 30%), devido aos desafios
+de entrar em mercados desconhecidos.
+4. Diversificação - Entrar em novos mercados com novos produtos
+Américo Dias
+57
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Este quadrante representa o maior risco, com taxa de sucesso entre 20% e 30%,
+sendo mais bem-sucedido quando realizado com parceiros (30%) do que isoladamente
+(20%).
+O professor estabeleceu conexões entre esta matriz e outras ferramentas estratégicas dis-
+cutidas anteriormente:
+"Esta matriz liga-se com várias coisas. [...] Ferramenta que vocês já têm de trás.
+[...] O que é que diz nos três horizontes? Uma estratégia balanceada deve estar
+mais ou menos pontilhada ao longo dos horizontes."
+A matriz relaciona-se com os três horizontes estratégicos:
+• Horizonte 1 (Defender): Corresponde à penetração de mercado
+• Horizonte 2 (Desenvolver): Corresponde ao desenvolvimento de produto ou mercado
+• Horizonte 3 (Semear): Corresponde à diversificação
+4.7
+Gestão de Portfólio
+A terceira parte da aula centrou-se na gestão de portfólio, utilizando a Matriz BCG
+(Boston Consulting Group) como ferramenta principal.
+Baixa
+Alta
+Quota de Mercado Relativa
+Alto
+Baixo
+Crescimento do Mercado
+★Estrelas
+Alta quota em mercados
+de alto crescimento
+• Reinvestir todos os lucros
+• Foco no crescimento
+• Futuras vacas leiteiras
+? Pontos de Interrogação
+Baixa quota em mercados
+de alto crescimento
+• Investir seletivamente
+• 95% falham e viram cães
+• Necessitam recursos das vacas
+Vacas Leiteiras
+Alta quota em mercados
+de baixo crescimento
+• Fonte principal de dinheiro
+• Proteger e otimizar
+• Financiam outros negócios
+Cães
+Baixa quota em mercados
+de baixo crescimento
+Cães Amarelos
+(geram dinheiro)
+Cães Vermelhos
+(perdem dinheiro)
+"O dinheiro nasce nas vacas." - Prioridade: 1º Proteger vacas, 2º Apoiar estrelas,
+3º Desenvolver pontos de interrogação promissores, 4º Eliminar cães que perdem dinheiro
+Figura 22: Matriz BCG para gestão de portfólio
+4.7.1
+A Matriz BCG
+A matriz BCG classifica os produtos ou unidades de negócio em quatro categorias:
+Américo Dias
+58
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1. Vacas Leiteiras (Cash Cows) - Alta quota de mercado em mercados de baixo
+crescimento
+"O dinheiro nasce nas vacas.
+E é por isso que se chamam vacas.
+E é
+por isso que se chamam vacas leiteiras. O propósito das vacas é único e
+exclusivamente produzir leite. Dar dinheiro."
+2. Estrelas (Stars) - Alta quota de mercado em mercados de alto crescimento
+3. Pontos de Interrogação (Question Marks) - Baixa quota de mercado em mer-
+cados de alto crescimento
+4. Cães (Dogs) - Baixa quota de mercado em mercados de baixo crescimento
+O professor subdividiu os "cães"em duas categorias:
+• Cães que geram dinheiro ("cães amarelos")
+• Cães que perdem dinheiro ("cães vermelhos")
+4.7.2
+Fluxo de Dinheiro no Portfólio
+O professor explicou como o dinheiro deve fluir dentro do portfólio:
+"O dinheiro só pode nascer numa vaca leiteira. É uma regra sine qua non desta
+matriz. O dinheiro nasce nas vacas."
+A alocação de recursos deve seguir a seguinte prioridade:
+1. Proteger as Vacas Leiteiras - Primeiro, investir o suficiente para manter as vacas
+leiteiras produtivas
+"Se eu não protejo a vaca, o que é que vai acontecer à vaca? Vai-se embora.
+Morro. Fico sem vaca. E se a vaca morre, fico sem dinheiro."
+Contudo, o professor alertou para dois riscos:
+• Sobreinvestir nas vacas, tornando-as ineficientes
+• Subinvestir, comprometendo a sua capacidade de gerar dinheiro
+2. Apoiar as Estrelas - Investir nas estrelas para que possam crescer e eventualmente
+tornar-se vacas leiteiras
+"Todo o dinheiro que geram, o que eu quero dizer aqui é, todo o dinheiro
+gerado dentro de uma estrela, deve ser reinvestido na própria estrela. E
+ainda assim não deve receber mais algum vinte da vaca."
+3. Desenvolver Pontos de Interrogação Promissores - Investir seletivamente nos
+pontos de interrogação com maior potencial
+4. Desinvestir ou Eliminar Cães que Perdem Dinheiro - Remover produtos ou
+negócios cronicamente deficitários
+Américo Dias
+59
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"Em todas as organizações, deve existir uma rotina e uma equipa de mata-
+cães? Há um conjunto de veterinários, sempre de seringa na mão, para
+matarem tudo o que faz xixi."
+4.7.3
+Fluxo de Produtos
+O professor explicou o ciclo de vida típico dos produtos dentro da matriz BCG:
+1. Os produtos nascem como Pontos de Interrogação
+2. A maioria (95%) acaba como Cães que perdem dinheiro e devem ser eliminados
+3. Alguns (3-4%) tornam-se Cães que dão dinheiro
+4. Uma minoria consegue tornar-se Estrelas e eventualmente Vacas Leiteiras
+"Porque, normalmente, mais de 95% dos produtos que nascem em pontos de in-
+terrogação, terminam em cães que pincham."
+O professor enfatizou a importância de manter um fluxo constante de novos produtos
+(pontos de interrogação) para garantir o futuro da empresa, mesmo sabendo que a maioria
+falhará.
+4.7.4
+Perfil dos Gestores para Cada Categoria
+Um aspeto interessante abordado foi o perfil adequado de gestores para cada tipo de
+produto:
+• Gestor de Vacas Leiteiras:
+– Experiência de mercado
+– Foco na otimização e eficiência
+– Conservador e paciente
+– Orientado para a rentabilidade
+"Portanto, é preciso alguém com experiência, é preciso alguém com foco na
+eficiência, é preciso alguém com paciência. É preciso alguém ponderado."
+• Gestor de Estrelas:
+– Ágil e experimental
+– Disposto a arriscar
+– Orientado para o crescimento
+– Pode vir de outros setores
+"É a otimização que conta, é experimentalismo, é fazer crescer, é focar no
+crescimento, não é focar na rentabilidade."
+Américo Dias
+60
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+O professor alertou para o erro comum de transferir gestores entre categorias, especial-
+mente colocar um gestor de vacas leiteiras a gerir uma estrela:
+"A vaca piora e a estrela morre depressa."
+4.7.5
+Equilíbrio do Portfólio
+O professor enfatizou a importância do equilíbrio de portfólio, ilustrando com o exemplo
+de duas empresas hipotéticas:
+• Empresa A: Dominada por vacas leiteiras, com poucos pontos de interrogação e
+estrelas - "Vaca sem futuro"
+• Empresa B: Dominada por estrelas e pontos de interrogação, com poucas vacas
+leiteiras - "Empresa com enorme futuro potencial, mas sem presente"
+"Equilibrar os portfólios e o que ajuda é... Ajuda a equilibrar os portfólios, mais
+uma vez e sempre, é aquela perspetiva dos horizontes."
+Foi discutido como estas empresas poderiam complementar-se através de fusões ou aqui-
+sições, dependendo das condições do mercado financeiro:
+"Se os mercados estiverem a valorizar cash, se os mercados estiverem bearish e
+estiverem a valorizar cash, [...] A compra B. Se os mercados estiverem a valorizar
+o crescimento, crescimento exponencial e futuro, B compra A."
+4.8
+Parenting (Como Ser um Bom "Pai"Corporativo)
+A parte final da aula abordou o conceito de "parenting"corporativo, explorando como
+as corporações-mãe podem adicionar valor às suas subsidiárias. Este modelo analisa a
+relação entre as capacidades da corporação e as necessidades das unidades de negócio.
+"Os negócios precisam de ajuda, os negócios do conglomerado precisam de ajuda
+e o conglomerado não só tem a capacidade de perceber como ajudar, onde ajudar
+e tem as competências para ajudar."
+Esta matriz baseia-se em duas dimensões principais:
+• Eixo Vertical - Risco de destruição de valor devido a mudanças no modelo de
+negócio (de baixo a alto)
+• Eixo Horizontal - Probabilidade de adicionar valor através das competências e
+recursos da corporação-mãe (de baixo a alto)
+A matriz identifica quatro regiões estratégicas distintas:
+1. Green Pastures - The Heartland (Pastos Verdes - O Coração) - Região onde
+a corporação tem alta probabilidade de adicionar valor e baixo risco de destruir
+valor. Representa o cenário ideal, onde as capacidades da corporação-mãe estão
+perfeitamente alinhadas com as necessidades do negócio.
+Américo Dias
+61
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Figura 23: Matriz de Parenting/Heartland/Ashridge Porffolio fit e suas quatro regiões
+estratégicas
+"We are in heaven, hard work. Essa é a situação ideal. Os negócios precisam
+de ajuda, os negócios do conglomerado precisam de ajuda e o conglomerado
+não só tem a capacidade de perceber como ajudar, onde ajudar e tem as
+competências para ajudar."
+2. Bedrock Ballast (Lastro de Base) - Região onde há baixo risco de destruição de
+valor, mas também baixo potencial de adição de valor. São negócios que funcionam
+bem por si mesmos, requerendo pouca intervenção da corporação-mãe.
+"É um negócio já maduro, precisa de pouca ajuda e a corporação compreende-
+o bem."
+3. Value Trap (Armadilha de Valor) - Região onde existe alto potencial de adição
+de valor, mas também alto risco de destruição. São situações perigosas, onde a
+corporação-mãe pode ser tentada a intervir devido ao potencial de melhoria, mas
+corre sério risco de causar danos devido à sua falta de compreensão profunda do
+negócio.
+4. Unknown Territory (Território Desconhecido) - Região com alto risco de
+destruição de valor e baixa probabilidade de adição de valor. Representa negócios
+fundamentalmente desalinhados com as capacidades e compreensão da corporação-
+mãe.
+"Não entende o negócio. Eu não posso dizer, mas está-me a lembrar de um
+bocado de Atenção, não é? Eu li. E eu... sei lá. Não é real. Portanto, é
+um negócio... Olha o Jornal Público. Está aqui."
+O professor enfatizou que a matriz de parenting é uma ferramenta fundamental para
+avaliar a adequação estratégica entre corporações e suas unidades de negócio, ajudando
+a tomar decisões sobre quais negócios manter, desenvolver ou desinvestir. A posição na
+Américo Dias
+62
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+matriz deve guiar o nível e tipo de envolvimento da corporação-mãe com cada unidade
+de negócio:
+• Negócios no "Heartland"devem receber atenção e recursos prioritários
+• Negócios no "Bedrock Ballast"devem ser poupados de burocracia corporativa exces-
+siva
+• Negócios na "Value Trap"exigem desenvolvimento de novas capacidades corporativas
+antes de maior envolvimento
+• Negócios no "Unknown Territory"são candidatos naturais para desinvestimento
+Esta perspetiva de parenting complementa a análise de portfólio da matriz BCG, ofere-
+cendo uma visão mais refinada sobre como a estrutura corporativa deve relacionar-se com
+suas diferentes unidades de negócio para maximizar a criação de valor.
+4.9
+Reflexões Adicionais sobre Estratégia Corporativa
+O professor partilhou algumas reflexões importantes sobre a natureza das decisões estra-
+tégicas ao nível corporativo:
+"Há estratégias que não são certas, há estratégias erradas. Há estratégias bem
+informadas ou mal informadas."
+Esta perspetiva reforça a ideia de que a qualidade das decisões estratégicas depende
+fundamentalmente da qualidade da informação em que se baseiam, e não existe uma
+fórmula única para o sucesso. O contexto, as capacidades organizacionais e o momento
+do mercado são fatores determinantes para a adequação de uma estratégia.
+4.9.1
+Empreendedorismo versus Gestão
+Um tema interessante que surgiu durante a discussão foi a diferença fundamental entre
+empreendedores e gestores:
+"O empreendedor tem uma capacidade de ler e arriscar extraordinariamente su-
+perior ao gestor. O gestor é um gajo a quem? O gestor é um otimizador."
+Esta distinção tem implicações importantes para a gestão corporativa:
+• Empreendedores - Caracterizam-se pela capacidade de visualizar oportunidades,
+assumir riscos calculados e desafiar o status quo. São fundamentais para identificar
+novas direções estratégicas e oportunidades de disrupção.
+• Gestores - Focam-se na otimização e eficiência dos sistemas e processos existentes.
+São essenciais para a execução disciplinada da estratégia e para a maximização do
+valor dos negócios estabelecidos.
+Américo Dias
+63
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+O professor observou que muitas organizações, especialmente ao nível corporativo, sofrem
+do excesso de "otimizadores"e da falta de pensamento empreendedor:
+"O pior do papel corporativo é quando se põe gestor no corporativo. E tem uma
+camada de otimizadores e os chacos dos otimizadores a otimizarem o que já está
+otimizado. É um desastre."
+Esta crítica sugere que as corporações beneficiariam em manter um equilíbrio entre a men-
+talidade de otimização (fundamental para o sucesso de "vacas leiteiras") e a mentalidade
+empreendedora (essencial para o desenvolvimento de novos negócios e para a adaptação
+estratégica).
+4.10
+Investimento Estratégico a Longo Prazo
+O professor ressaltou a importância de uma perspetiva de longo prazo nos investimen-
+tos estratégicos, contrastando com a tendência de muitas organizações para focarem-se
+excessivamente em resultados de curto prazo:
+"No longo prazo, investir... E aqui, em portfólios, normalmente dá resultado."
+Esta observação destaca como decisões estratégicas bem fundamentadas, mesmo que ini-
+cialmente controversas ou aparentemente contraproducentes a curto prazo, tendem a pro-
+duzir resultados positivos quando avaliadas numa perspetiva temporal mais ampla.
+O professor enfatizou que existe uma assimetria de informação nos mercados financeiros
+que leva a avaliações frequentemente incorretas no curto prazo:
+"E a simetria de informação leva normalmente o mercado de capitais a estar no
+curto prazo tendencialmente errado e no médio e longo prazo tendencialmente
+certo, mas no longo prazo estamos todos mortos."
+Esta perspetiva sugere que as empresas devem evitar orientar as suas decisões estratégicas
+exclusivamente pelas reações imediatas do mercado, devendo manter o foco em criar valor
+sustentável a longo prazo, mesmo que isso signifique aceitar alguma incompreensão ou
+subvalorização temporária pelos mercados.
+4.11
+Aplicação Prática dos Conceitos
+Ao longo da aula, o professor ilustrou os conceitos através de diversos exemplos práticos,
+proporcionando aos alunos uma compreensão mais concreta e aplicável dos princípios
+estratégicos:
+4.11.1
+Caso Sonae
+A Sonae foi apresentada como um exemplo de conglomerado com uma estratégia de di-
+versificação particular no contexto português:
+"A Sonae... O Sonae nasceu trazendo para Portugal negócios que tinham sucesso
+fora de Portugal e aplicando num mercado razoavelmente pouco competente do
+Américo Dias
+64
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+ponto de vista da gestão, técnicas de gestão importadas e standardizadas ao que
+de melhor se fazia, pois aplicadas para os incompetentes dos gestores que deram
+cabo daquela porcaria."
+Este exemplo ilustra como a diversificação pode ser bem-sucedida quando:
+• Aproveita modelos de negócio já validados em outros mercados
+• Introduz metodologias de gestão avançadas em contextos onde existe um défice de
+capacidades
+• Identifica oportunidades em mercados subdesenvolvidos ou mal servidos
+No entanto, o professor também destacou que, mais recentemente, a Sonae tem enfrentado
+o desafio típico dos conglomerados:
+"A Sonae é um grande exemplo de desgraça. A Sonae vale o mesmo há não sei
+quantos anos. A Sonae tem negócios que valem mais que a própria Sonae. É uma
+coisa inacreditável."
+Esta evolução ilustra como mesmo conglomerados inicialmente bem-sucedidos podem en-
+frentar desafios significativos em termos de criação de valor quando o contexto de mercado
+se altera ou quando a sua estrutura se torna excessivamente complexa.
+4.11.2
+Caso Amazon
+A Amazon foi apresentada como um raro exemplo de conglomerado bem-sucedido no
+contexto contemporâneo:
+"A Amazon, profundamente relacionada. Se virem aqui o ecossistema da Amazon,
+a Amazon praticamente... É natural que haja, porque eles têm montes de negócios,
+há ali depois um perigo nos negócios todos, mas os negócios essenciais da Amazon
+são todos de diversificação relativa."
+O sucesso da Amazon como conglomerado foi atribuído a vários fatores:
+• Foco em diversificação relacionada, mantendo coerência estratégica
+• Controlo integral sobre suas várias unidades de negócio
+• Capacidade de apresentar resultados consistentes
+• Gestão eficaz das sinergias entre diferentes áreas de negócio
+Este exemplo demonstra que, embora os conglomerados enfrentem desafios significati-
+vos, é possível construir estruturas multi-negócio bem-sucedidas quando há uma lógica
+estratégica clara a unificar os diversos elementos.
+4.12
+Implicações Práticas para a Gestão Estratégica
+A aula proporcionou diversas implicações práticas para a gestão estratégica eficaz ao nível
+corporativo:
+Américo Dias
+65
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+4.12.1
+Princípios para Gestão de Portfólio
+O professor destacou vários princípios para uma gestão de portfólio eficaz:
+1. Manter um Portfólio Equilibrado - Garantir que a organização tem uma pre-
+sença adequada nos três horizontes estratégicos, com negócios em diferentes estágios
+do ciclo de vida.
+"Portfólios desequilibrados são um erro estratégico fundamental."
+2. Alocar Recursos Estrategicamente - Direcionar o fluxo de recursos financeiros
+de acordo com a lógica da matriz BCG, protegendo vacas leiteiras, desenvolvendo
+estrelas e selecionando criteriosamente pontos de interrogação promissores.
+3. Escolher Gestores Adequados - Designar líderes com perfis compatíveis com
+a natureza de cada negócio, reconhecendo que diferentes posições na matriz BCG
+requerem diferentes competências e abordagens de gestão.
+4. Eliminar Ativamente Negócios Não Rentáveis - Manter uma disciplina rigo-
+rosa na eliminação de "cães vermelhos"que não demonstram potencial de recupera-
+ção.
+"Cão que estruturalmente perde dinheiro, lê esse jornal público, devia neces-
+sariamente ser negativo. A não ser que tenha um propósito, que neste caso
+até é um propósito bem negativo."
+5. Avaliar Criticamente Oportunidades de Diversificação - Analisar com rigor
+o potencial de criação de valor em movimentos de diversificação, preferindo diversi-
+ficação relacionada a não-relacionada.
+"Acho que a diversificação deve ser cuidadosamente planeada e bem justifi-
+cada e esse é que é o ponto."
+4.12.2
+Diretrizes para Centros Corporativos
+O professor ofereceu diretrizes específicas para o funcionamento eficaz dos centros corpo-
+rativos:
+• Manter o Centro Enxuto - Limitar ao mínimo necessário o tamanho e as funções
+do centro corporativo.
+"Uma corporação deve ter poucos recursos, muito poucos recursos, deve, no
+essencial, deve, no essencial, ser a cola cultural e eu acho que é necessário
+algum layer de ajuda ao desafio estratégico. Bom, mais nada."
+• Focar na Cola Cultural - Concentrar a atuação corporativa em garantir a coesão
+cultural e o alinhamento estratégico entre as diversas unidades.
+• Promover Desafio Estratégico - Proporcionar suporte e desafio às unidades de
+negócio em seus processos de reflexão estratégica.
+Américo Dias
+66
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Empurrar Responsabilidades para os Negócios - Delegar o máximo possível
+de responsabilidades operacionais e decisões táticas para as unidades de negócio.
+"Empurrem para os negócios aparecerem, tomem decisões de aquisição de
+negócios, mas quanto mais enxuto o centro corporativo, melhor."
+4.13
+Conclusão da Aula 4
+A quarta aula do curso de Estratégia forneceu uma visão abrangente das estratégias corpo-
+rativas, desde a transformação da procura primária até à gestão de portfólios complexos.
+As principais ferramentas e frameworks abordados incluram a Matriz de Ansoff, a Matriz
+BCG e o modelo de Parenting corporativo.
+O professor enfatizou repetidamente a importância do equilíbrio estratégico - entre hori-
+zontes temporais, entre diferentes tipos de negócios no portfólio, e entre a mentalidade
+empreendedora e a orientação para a otimização.
+Os conceitos apresentados na aula não foram abordados como fórmulas rígidas, mas como
+ferramentas de reflexão que devem ser adaptadas ao contexto específico de cada organi-
+zação:
+"Não há estratégias certas ou erradas, há estratégias mal fundamentadas."
+Esta perspetiva reforça a natureza contingencial da estratégia e a importância do discer-
+nimento e julgamento informado na tomada de decisões estratégicas.
+Para a próxima aula, o professor antecipou três temas principais: internacionalização,
+inovação, e fusões e aquisições. Estes temas complementarão o quadro conceptual de-
+senvolvido até este ponto, proporcionando ferramentas adicionais para a compreensão e
+implementação de estratégias corporativas eficazes.
+"Uma estratégia equilibrada atua nos três horizontes simultaneamente."
+Esta frase sintetiza bem o espírito da aula - a necessidade de manter um equilíbrio di-
+nâmico entre a gestão do presente e a preparação para o futuro, entre a exploração e a
+exploração, entre a otimização e a inovação. É este equilíbrio que caracteriza as organiza-
+ções verdadeiramente resilientes e adaptativas no ambiente empresarial contemporâneo.
+Américo Dias
+67
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5
+Aula 5 - Internacionalização, Inovação e Fusões e
+Aquisições
+5.1
+Introdução à Internacionalização
+Na quinta aula, o Professor Luís Filipe Reis abordou três temas fundamentais para a
+estratégia empresarial contemporânea: internacionalização, inovação e fusões e aquisi-
+ções. Estes temas complementam o quadro conceptual desenvolvido nas aulas anteriores,
+proporcionando ferramentas adicionais para a formulação e implementação de estratégias
+corporativas eficazes.
+"Uma estratégia internacional bem-sucedida implica responder adequadamente a
+três perguntas fundamentais: Porquê internacionalizar?
+Para onde?
+E como
+entrar nos novos mercados?"
+A internacionalização foi apresentada como uma decisão estratégica complexa que envolve
+múltiplas dimensões de análise e exige uma compreensão profunda tanto do contexto
+interno da organização quanto dos mercados-alvo potenciais.
+5.2
+Motivações para a Internacionalização
+O professor iniciou a discussão explorando as diversas motivações que podem levar uma
+empresa a internacionalizar-se:
+1. Acesso a novos mercados - Busca por oportunidades de crescimento além dos
+mercados domésticos, especialmente quando estes estão saturados ou apresentam
+limitações de escala.
+2. Economias de escala - Aumento do volume de produção para diluir custos fixos
+e aumentar a eficiência operacional.
+3. Acesso a recursos - Busca por matérias-primas, mão-de-obra ou conhecimentos
+específicos disponíveis em outros países.
+4. Diversificação de riscos - Redução da dependência de um único mercado, prote-
+gendo a empresa contra flutuações económicas locais.
+5. Resposta a concorrentes - Reação defensiva quando concorrentes entram em
+mercados internacionais, ou ofensiva para ganhar vantagem competitiva.
+6. Acesso a conhecimento e inovação - Exposição a novos conhecimentos, tecno-
+logias e práticas de negócio disponíveis globalmente.
+"A matriz de Ansoff que vimos na aula anterior ganha uma nova dimensão quando
+incorporamos a perspectiva internacional. A internacionalização pode ser uma
+forma de penetração de mercado, desenvolvimento de mercado, desenvolvimento
+de produto ou diversificação, dependendo da abordagem escolhida."
+Américo Dias
+68
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+O professor enfatizou que estas motivações não são mutuamente exclusivas e frequente-
+mente se complementam, formando um conjunto complexo de incentivos para a expansão
+internacional.
+5.3
+Análise do Destino de Internacionalização
+Para responder à segunda pergunta fundamental sobre internacionalização ("Para onde?"),
+o professor apresentou o modelo CAGE, uma ferramenta analítica para avaliar a distância
+entre países em quatro dimensões-chave:
+C
+Cultural
+A
+Administrativa
+G
+Geográﬁca
+E
+Económica
+• Normas sociais
+• Valores
+• Crenças
+• Linguagem
+• Sistemas políticos
+• Estruturas legais
+• Instituições
+• Acordos internacionais
+• Distância física
+• Fusos horários
+• Clima
+• Topograﬁa
+• Nível de desenvolvimento
+• Distribuição de rendimentos
+• Poder de compra
+• Infraestrutura
+Baseado no modelo proposto por Pankaj Ghemawat
+Figura 24: O modelo CAGE para análise de distância entre países
+5.3.1
+As Quatro Dimensões do Modelo CAGE
+• Distância Cultural (C) - Diferenças em normas sociais, valores, crenças e com-
+portamentos que podem afetar a aceitação de produtos ou serviços e a forma de
+fazer negócios.
+"A distância cultural é frequentemente a mais subestimada, mas pode ser a
+mais difícil de superar. Produtos aceitáveis num contexto cultural podem ser
+completamente inapropriados noutro."
+• Distância Administrativa (A) - Diferenças em sistemas políticos, legais e insti-
+tucionais que podem criar barreiras à entrada ou aumentar os custos de operação.
+• Distância Geográfica (G) - Vai além da mera distância em quilómetros, incluindo:
+– Distância física em quilómetros
+– Tempo de viagem (em horas)
+Américo Dias
+69
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+– Fusos horários
+– Diferenças climáticas e sazonais
+• Distância Económica (E) - Diferenças em desenvolvimento económico, distribui-
+ção de rendimentos, poder de compra e comportamento de consumo.
+"A distância económica não se refere apenas ao PIB per capita, mas também
+à estrutura socioeconómica, incluindo o nível de distribuição de rendimentos
+e perfis de consumo."
+O professor destacou que o modelo CAGE ajuda a identificar mercados onde a estraté-
+gia atual da empresa pode ser implementada com adaptações mínimas (baixa distância
+CAGE) versus mercados que exigiriam mudanças substanciais na proposta de valor ou no
+modelo de negócio (alta distância CAGE).
+5.3.2
+O Framework 12C
+Como complemento ao modelo CAGE, foi apresentado o framework 12C, uma ferramenta
+mais detalhada para análise de mercados internacionais:
+1. Country - Informação geral sobre o país, incluindo dados PESTEL básicos e o
+impacto das dimensões ambientais.
+2. Concentration - Estrutura dos segmentos de mercado e sua dispersão geográfica.
+3. Culture/Consumer Behaviour - Características culturais do país, diversidade
+de grupos culturais, natureza da tomada de decisão e principais influências nas
+compras.
+4. Choices - Análise da oferta, concorrência internacional e externa, características
+dos concorrentes e análise de importações.
+5. Consumption - Análise da procura e utilizadores finais, quotas de mercado por
+setores e avaliação de produtos substitutos.
+6. Contractual Obligations - Práticas de negócio, seguros e obrigações legais.
+7. Commitment - Acesso ao mercado, incentivos e barreiras comerciais e tarifas al-
+fandegárias.
+8. Channels - Comportamento de compra, capacidades dos intermediários, cobertura
+de custos de distribuição e infraestrutura de distribuição física.
+9. Communication - Promoção, infraestrutura e disponibilidade de mídia, aborda-
+gens de marketing eficazes e práticas comuns de venda.
+10. Capacity to Pay - Preços, tendências de preços, cultura de preços, condições de
+pagamento e termos de seguro.
+11. Currency - Estabilidade, restrições e controles de câmbio.
+Américo Dias
+70
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+12. Caveats - Fatores específicos a ter em atenção no mercado em questão.
+"O framework 12C oferece uma lista de verificação abrangente para diagnóstico
+de mercados internacionais.
+É particularmente útil para evitar que dimensões
+críticas sejam negligenciadas na análise."
+5.4
+Modos de Entrada em Mercados Internacionais
+A terceira pergunta fundamental na internacionalização ("Como entrar?") foi abordada
+através de uma discussão sobre os diferentes modos de entrada em mercados internaci-
+onais. O professor enfatizou que não existe uma resposta única ou universal para esta
+questão.
+"Não há uma resposta base para a questão de como entrar. A escolha do modo de
+entrada depende do contexto específico, do setor, dos objetivos e das capacidades
+da empresa."
+Os modos de entrada foram apresentados num espectro de comprometimento e controlo
+crescentes:
+Exportação
+Acordos Contratuais
+Parcerias Estratégicas
+Investimento Direto
+Menor Controlo
+Menor Risco
+Menor Investimento
+Maior Controlo
+Maior Risco
+Maior Investimento
+Exportação
+• Exportação Indireta
+• Trading Companies
+• Piggyback Operations
+• Força de Vendas
+• Distribuidores/Agentes
+• Marketing Direto
+Acordos Contratuais
+• Franchising
+• Licenciamento
+• Fabricação Contratual
+Parcerias Estratégicas
+• Alianças Estratégicas
+• Joint Ventures
+Investimento Direto
+• Operações de Montagem
+• Aquisição de Empresas
+• Subsidiária Totalmente
+Detida (Greenﬁeld)
+Espectro de Comprometimento e Controlo
+Figura 25: Modos de entrada em mercados internacionais e nível de risco associado
+5.4.1
+Principais Modos de Entrada
+1. Exportação - Inclui:
+• Exportação indireta (via empresas de gestão de exportação)
+• Piggyback operations (uso da rede de distribuição de outra empresa)
+• Trading companies
+• Força de vendas própria
+• Distribuidores e agentes
+• Marketing direto
+2. Acordos Contratuais - Incluem:
+• Franchising
+Américo Dias
+71
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+• Licenciamento
+• Fabricação contratual
+3. Parcerias Estratégicas - Incluem:
+• Alianças estratégicas
+• Joint ventures
+4. Investimento Direto - Inclui:
+• Operações de montagem
+• Aquisição de empresas locais
+• Subsidiária totalmente detida (greenfield investment)
+O professor destacou que a escolha do modo de entrada envolve um trade-off entre con-
+trolo e risco: métodos que oferecem maior controlo sobre operações internacionais (como
+subsidiárias próprias) geralmente envolvem maior investimento e risco, enquanto aborda-
+gens com menor controlo (como exportação via intermediários) tendem a reduzir o risco,
+mas também limitam a capacidade de influenciar o desempenho no mercado.
+"À medida que subimos na escala de modos de entrada, aumentamos o controlo
+sobre a operação internacional, mas também aumentamos proporcionalmente o
+risco e o investimento necessário."
+5.5
+Estratégias de Inovação
+A segunda parte da aula centrou-se no tema da inovação, estabelecendo conexões entre
+inovação, ciclo de vida do produto e estratégias competitivas. O professor iniciou com
+uma reflexão sobre a natureza da inovação:
+"A investigação é um processo onde se convertem recursos em novo conhecimento.
+A inovação é o processo inverso: é a conversão de conhecimento em recursos."
+5.5.1
+Curva de Adoção de Inovações
+O professor introduziu a curva de adoção de inovações como uma ferramenta fundamental
+para compreender como novos produtos são adotados pelo mercado. Esta curva classifica
+os consumidores em cinco categorias com base no seu perfil de risco e momento de adoção:
+1. Inovadores (2,5-3%) - Primeiros a adotar novas tecnologias, caracterizados por
+alta tolerância ao risco em várias dimensões:
+• Risco financeiro (disposição para pagar mais)
+• Risco funcional (aceitação de produtos não totalmente testados)
+• Risco à saúde (em produtos alimentares, medicamentos, etc.)
+• Risco sociológico ou sociocultural (aceitação do "risco do ridículo")
+Américo Dias
+72
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Tempo
+Crescimento
+2.5%
+13.5%
+34%
+34%
+16%
+Inovadores
+Early Adopters
+Maioria Precoce
+Maioria Tardia
+Retardatários
+Alta propensão
+ao risco
+Formadores
+de opinião
+Céticos
+Tradicionais
+Avessos
+à mudança
+Tipping
+Point
+Figura 26: Curva de adoção de inovações e categorias de adotantes
+"Os inovadores caracterizam-se pelo perfil de risco. É a única verdadeira
+coisa que os distingue dos outros. Os inovadores são, em geral, mais infor-
+mados, mais educados, mais propensos para consumo, têm mais rendimento,
+estão melhor financeiramente."
+O professor argumentou que os inovadores raramente constituem um segmento sus-
+tentável para negócios por serem poucos, mudarem com muita frequência (alta
+frequência, baixa fidelidade) e geralmente não serem suficientes para atingir o ponto
+de equilíbrio financeiro.
+"Os inovadores são um meio para atingir um fim."
+2. Adotantes Iniciais (Early Adopters, até 5%) - Descritos como "inovadores
+envergonhados", entram cedo no mercado mas com níveis de risco um pouco menores
+que os inovadores.
+"A única diferença dos early adopters para os inovadores é que são inova-
+dores envergonhados. Não vão para lá sozinhos. Vão dois ou três. Vão em
+pequeno grupo."
+3. Maioria Precoce (Early Majority) - Este grupo é identificado como o verdadeiro
+target das empresas. A entrada da maioria precoce no mercado geralmente coincide
+com o ponto de equilíbrio financeiro (break-even) e o ponto de inflexão (tipping
+point).
+"Quem nos vai fazer passar para o verde no break-even? A maioria precoce.
+Portanto, eu tenho que tratar inovadores e early adopters não como um
+target em si, mas como um meio para chegar a um fim."
+A maioria precoce exige que o produto já seja um "standard- tenha ultrapassado a
+fase beta e ofereça garantias de funcionamento, qualidade e segurança.
+4. Maioria Tardia (Late Majority) - Consumidores mais conservadores que entram
+no mercado quando a tecnologia já está plenamente estabelecida.
+Américo Dias
+73
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5. Retardatários (Laggards) - Os últimos a adotar inovações, frequentemente che-
+gando ao mercado quando as tecnologias já evoluíram para novas gerações.
+"Os conservadores quando chegam ao mercado, muitas vezes já nem há o
+produto original, já há outras versões. Eles dão saltos tecnológicos muitas
+vezes, porquê? Porque chegam muito tardiamente."
+O professor apresentou outra perspetiva da curva de adoção, focando-se na dimensão de
+crescimento ao longo do tempo, destacando o ponto de inflexão (tipping point) que ocorre
+na transição entre os adotantes iniciais e a maioria precoce:
+5.6
+Dinâmica Competitiva e Estratégias de Aceleração
+Um aspeto crucial discutido pelo professor foi a dinâmica de pressão do mercado nas
+diferentes fases da curva de adoção. Duas estratégias temporais principais foram identi-
+ficadas:
+Tempo
+Adoção (%)
+2.5%
+13.5%
+34%
+34%
+16%
+100%
+Tipping
+Point
+ASAP
+Tripping
+Point
+Pressão do
+Mercado
+Pressão do
+Mercado
+ALAP
+Figura 27: Curva de adoção mostrando pressões de mercado e estratégias ASAP e ALAP
+1. ASAP (As Soon As Possible) - Estratégia para atingir o ponto de inflexão o
+mais rapidamente possível, acelerando a adoção pelos inovadores e adotantes iniciais
+para chegar à maioria precoce.
+2. ALAP (As Late As Possible) - Estratégia para atrasar o ponto de "tripping"(declínio),
+mantendo a adoção elevada pelo maior tempo possível.
+O professor explicou como a concorrência exerce pressão em dois pontos estratégicos:
+"O que é que a concorrência quer que vos aconteça? Primeiro não quero que vocês
+cheguem nunca aqui e, portanto, quando é que a concorrência vos vai atacar?
+Pensem em estratégia militar... Qual é o momento mais crítico? É pará-los antes
+de porem o pé na praia."
+A primeira pressão competitiva visa atrasar o ponto de inflexão do produto no mercado,
+impedindo que ele alcance a maioria precoce, enquanto a segunda pressão busca acelerar
+o ponto de declínio, reduzindo o tempo de vida útil do produto no mercado.
+Américo Dias
+74
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5.7
+Impacto Financeiro da Curva de Adoção
+O professor também apresentou a dimensão financeira associada à curva de adoção, des-
+tacando o ponto de break-even (equilíbrio financeiro) que ocorre tipicamente na transição
+para a maioria precoce:
+Tempo
+FCF
+2.5%
+13.5%
+34%
+34%
+16%
+Break
+Even
+Figura 28: Curva de adoção mostrando o impacto financeiro e o ponto de break-even
+Esta visualização demonstra como as fases iniciais da adoção (inovadores e adotantes
+iniciais) geralmente representam um período de investimento com fluxo de caixa negativo
+(área vermelha), enquanto a partir do ponto de break-even, com a entrada da maioria
+precoce, o fluxo de caixa se torna positivo e cumulativo (área verde).
+5.7.1
+Ciclo de Vida do Produto e Estratégias de Investimento
+O professor estabeleceu conexões entre a curva de adoção e o ciclo de vida do produto,
+que consiste em quatro fases:
+1. Introdução (I) - Fase inicial onde o produto é apresentado ao mercado, geralmente
+caracterizada por vendas baixas e crescimento lento
+2. Crescimento (C) - Fase de rápida expansão das vendas e aumento da rentabilidade
+3. Maturidade (M) - Fase de estabilização onde o crescimento desacelera e o foco
+passa para a proteção da quota de mercado
+4. Declínio (D) - Fase final onde as vendas e a rentabilidade caem
+O professor destacou que o ponto de equilíbrio (break-even) e o ponto de inflexão (tipping
+point) geralmente ocorrem no final da fase de introdução, quando a maioria precoce
+começa a entrar no mercado.
+"É quando o produto começa a crescer, a segunda derivada da curva entra em
+positivo. Isto é a curva de ciclo de vida do produto."
+Américo Dias
+75
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+Introdução / Crescimento / Maturidade / Declínio
+I
+C
+M
+D
+Tempo
+Vendas
+Figura 29: Ciclo de vida do produto mostrando as fases de Introdução, Crescimento,
+Maturidade e Declínio
+5.8
+Estratégias de Investimento em Marketing
+Foi enfatizada a importância de concentrar o investimento em marketing na fase inicial
+de introdução, como mostra a figura a seguir:
+Introdução / Crescimento / Maturidade / Declínio
+I
+C
+M
+D
+Tempo
+Investimento em Marketing
+Revilalização
+Figura 30: Distribuição do investimento em marketing ao longo do ciclo de vida do produto
+"Ou se tem coragem ou não se está nos negócios. E a coragem é afundar na fase
+inicial."
+O professor introduziu o conceito da "lei da antigravidade"aplicada à inovação:
+"Na introdução de uma inovação, quanto mais alto se sobe nas vendas na fase
+inicial, mais alto se fica na fase da maturidade. Porquê? Porque se eu entrei alto,
+conquistei muito mercado e impedi a concorrência de mirar esses consumidores."
+O professor argumentou que as empresas devem concentrar massivamente seus investi-
+mentos de marketing na fase de introdução, usando a metáfora "meter a lenha toda no
+assador". Esta estratégia aumenta as chances de sucesso da inovação e dificulta a entrada
+de concorrentes.
+Américo Dias
+76
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5.8.1
+Revitalização de Produtos
+Para prolongar o ciclo de vida, o professor discutiu estratégias de revitalização de produ-
+tos:
+Introdução / Crescimento / Maturidade / Declínio
+I
+C
+M
+D
+Tempo
+Vendas
+Revilalização
+I
+C
+M
+D
+Tempo
+Vendas
+Revilalização
+Figura 31: Impacto da revitalização no ciclo de vida do produto
+"Como é que eu posso aumentar a fase de maturidade? Estar mais tempo rico e
+saudável lá no pico?"
+A revitalização pode ser feita através de:
+• Inovação incremental - Pequenas melhorias no produto ou apresentação, como
+os "facelifts"na indústria automóvel
+• Novas utilizações - Encontrar novos casos de uso para produtos existentes, como
+o exemplo da aspirina, que passou de medicamento para dores de cabeça para flui-
+dificante do sangue em doses menores
+O professor enfatizou que a revitalização só deve ser considerada bem-sucedida se resultar
+num fluxo de caixa descontado (DCF) positivo.
+"O que é que eu estou à procura? Um facelift dos automóveis, estou a fazer uma
+revitalização, estou à procura de ter uma nova fase de introdução, crescimento e
+maturidade para que o meu declínio apareça à frente. Mas a revitalização em si
+mesma só é bem sucedida se o discounted cash flow resultante da revitalização for
+positivo."
+5.9
+Fusões e Aquisições
+A terceira parte da aula abordou o tema das fusões e aquisições (M&A), apresentando-o
+como uma alternativa ao crescimento orgânico:
+Américo Dias
+77
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"O que é que as empresas precisam para crescer? Basicamente, há dois tipos de
+crescimento: ou cresce de forma orgânica, ou cresce de forma acquisitiva."
+5.9.1
+Tipos de Crescimento
+• Crescimento Orgânico - Desenvolvimento baseado nas próprias capacidades da
+organização, descrito como "fazer crescer dentro do próprio contexto", investindo em
+mais fábricas, recrutando mais pessoas, conquistando mais mercados, inovando.
+"O desenvolvimento orgânico sou eu a crescer, eu dentro do meu contexto e
+dentro de mim, dentro dos fatores que eu controlo."
+• Crescimento Aquisitivo - Desenvolvimento através de fusões e aquisições, permi-
+tindo expansão mais rápida mas envolvendo desafios de integração.
+5.9.2
+Diferença entre Fusão e Aquisição
+O professor estabeleceu distinções claras entre fusões e aquisições:
+• Aquisição - Definida como um processo onde uma empresa (A) compra outra (B)
+para assumir o controlo completo.
+"Uma aquisição é a top takeover. É eu vou-te comer. E comi. [...] A compra
+B para A mandar em B e para A dominar B. E no limite pode ficar só o A."
+O professor enfatizou a necessidade de clareza e determinação nas aquisições, criti-
+cando abordagens hesitantes:
+"Vocês não vão comprar um par de sapatos para o par de sapatos mandarem
+vocês. Vocês compram um par de sapatos para usarem os sapatos quando
+querem e deitarem-nos fora quando lhes apetece."
+Foi destacado que aquisições bem-sucedidas geralmente têm um plano claro de in-
+tegração que é implementado rapidamente:
+"Uma aquisição, se for bem feita, ou atinge na prática a quase totalidade
+dos seus objetivos ao fim de 100 dias, ou vai correr a pau."
+• Fusão - Descrita como uma "combinação de entidades"ou um "casamento"entre
+organizações relativamente iguais.
+"Merger já é uma combinação de partes iguais. É uma espécie de casamento.
+[...] Uma merger é uma fusão, que é a tal combinação, é um processo extra-
+ordinariamente difícil e extraordinariamente delicado."
+O professor destacou a dificuldade de fusões bem-sucedidas:
+"É um processo de combinação de duas entidades para extrair, em tese, o
+melhor de cada uma delas e dar um resultado final superior à soma das
+partes. Extraordinariamente difícil de gerir e extraordinariamente difícil de
+levar à geração de valor. Fusões que geram valor são raras. Estão mais
+entre os 10% e os 20% do que noutro sítio."
+Américo Dias
+78
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5.9.3
+Motivações para Fusões e Aquisições
+O professor discutiu várias motivações para fusões e aquisições, organizando-as em três
+categorias principais:
+• Motivações Estratégicas:
+– Extensão geográfica, de produtos ou mercados
+– Consolidação para aumentar escala, eficiência e poder de mercado
+– Aquisição de capacidades e competências complementares
+• Motivações Financeiras:
+– Eficiência financeira (empresa com balanço forte adquire uma com balanço
+fraco)
+– Eficiência fiscal
+– Asset stripping ou unbundling (vender partes da empresa adquirida)
+• Motivações Gerenciais:
+– Ambição pessoal dos gestores
+– Incentivos financeiros ligados ao crescimento
+– Efeito bandwagon (seguir tendências do setor)
+"No início, quando se começou a discutir este tema das fusões, que começaram a
+ser populares por volta dos anos 70, 80, isto está ligado àquele tema da econo-
+mia de escala [...] começou Jack Welch, ’be number one, be number second, or
+quit’. Vem tudo dessa fase onde o crescimento é absolutamente essencial, tem que
+dominar o mercado."
+O professor observou que as motivações para M&A evoluíram ao longo do tempo:
+"Hoje, as fusões e aquisições, mais até as aquisições, são mais feitas para comple-
+mentar competências, ou para complementar elos da cadeia de valor, como vimos
+quando estivemos a discutir Montante, Jusante, na diversificação."
+5.9.4
+Alianças Estratégicas como Alternativa
+O professor apresentou as alianças estratégicas como uma alternativa às fusões e aquisi-
+ções, potencialmente mais eficaz em muitos casos:
+"Alianças estratégicas são combinações entre empresas movidas por uma coisa que,
+por vezes, é mais forte do que a cola do dinheiro e do que a cola das aquisições."
+Foram identificados quatro tipos principais de alianças estratégicas:
+1. Alianças de Escala - Organizações concorrentes que operam no mesmo mercado
+colaboram para melhorar a qualidade dos seus inputs e, consequentemente, dos seus
+outputs. O exemplo dado foi o de centrais de compras conjuntas.
+Américo Dias
+79
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+2. Alianças de Acesso - Organizações com competências complementares em dife-
+rentes partes da cadeia de valor colaboram para benefício mútuo. O exemplo citado
+foi o de produtores de software que licenciam a distribuidores especializados.
+3. Alianças de Complementaridade - Negócios complementares colaboram para
+oferecer uma solução mais completa. O exemplo mencionado foi da Disney e Pixar
+antes da sua fusão, onde a Pixar produzia filmes e a Disney explorava as personagens
+em parques temáticos e merchandising.
+4. Alianças de Colusão - Descritas como geralmente ilegais, envolvem concorrentes
+que alinham ofertas, como fixação de preços. Os exemplos citados incluíram a OPEP
+(Organização dos Países Exportadores de Petróleo).
+"Há mundo para lá das fusões e aquisições. E a melhor maneira de chegar, na
+maior parte dos casos, a um objetivo, destes, de diversificação, etc., é uma aliança
+estratégica e não uma fusão ou uma aquisição."
+O professor enfatizou que fusões e aquisições são das ferramentas mais arriscadas em
+gestão estratégica, e que alianças estratégicas frequentemente oferecem uma alternativa
+mais segura e eficaz para alcançar objetivos similares.
+5.10
+Estratégias Primárias e Secundárias
+Conectando com temas das aulas anteriores, o professor retomou a discussão sobre estra-
+tégias primárias e secundárias, aprofundando a sua aplicação. Ele começou por explicar
+a estrutura fundamental do mercado, dividindo-o em três componentes: mercado poten-
+cial total (todos os possíveis consumidores), mercado potencial real ou procura latente
+(consumidores conscientes do produto mas que ainda não compram), e mercado real
+(consumidores atuais).
+• Estratégias Primárias - Visam converter procura potencial (não existente ou
+latente) em procura real no mercado. Não são jogos de soma nula, pois expandem
+o mercado total. Estas estratégias subdividem-se em:
+– Estratégias para criar consciência e interesse (transformar procura não exis-
+tente em procura latente)
+– Estratégias para facilitar a adoção (transformar procura latente em procura
+real)
+"Estratégias primárias visam converter procura não existente ou latente em
+procura no mercado."
+• Estratégias Secundárias - Também chamadas de estratégias competitivas, lidam
+apenas com o mercado real já existente. São essencialmente jogos de soma nula,
+onde o ganho de um concorrente implica a perda de outro.
+"Nas estratégias secundárias ou competitivas, o mercado real é mercado que
+existe e está completamente preenchido. Por cada cliente que o Continente
+ganha, um dos seus concorrentes perde um."
+Américo Dias
+80
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+5.10.1
+Exemplos de Estratégias Primárias
+O professor apresentou diversos exemplos de estratégias primárias eficazes:
+1. O caso Dodot e a hidratação infantil - A marca Dodot realizou uma campanha
+de educação sobre a importância da hidratação adequada dos bebés, incentivando
+os pais a darem mais água aos seus filhos. A campanha, focada na avaliação da
+hidratação através do "teste da prega"na pele, conseguiu aumentar o consumo de
+água entre os bebés.
+"O que é que a Dodot se lembrou de fazer? A Dodot fez uma enorme campa-
+nha... Foi uma campanha feita para toda a gente andar a fazer prega na pele
+dos bebés, para ver se a pele dos bebés estava bem hidratada ou não estava
+bem hidratada."
+O resultado indireto foi um aumento significativo no consumo de fraldas, pois:
+"Mais água por cima, xixi por baixo. Mais fralda."
+Esta foi uma estratégia primária clássica, pois a Dodot expandiu o mercado total
+de fraldas sem "roubar"clientes dos concorrentes.
+2. Netflix e serviços de streaming - Na fase inicial, os serviços de streaming como
+Netflix usaram estratégias primárias como períodos gratuitos de experimentação
+e modelos freemium para facilitar a adoção por consumidores que não estavam
+habituados a pagar por conteúdo digital. Estas estratégias transformaram procura
+latente (pessoas interessadas em conteúdo sob demanda mas não dispostas a pagar)
+em procura real, expandindo significativamente o mercado.
+"Na fase 1, é continuar a ser extraordinariamente eficaz, trazer clientes para
+o mercado, retirar-lhes sequer o tema do preço."
+3. Pagamentos contactless - As empresas de serviços financeiros investiram em edu-
+car os consumidores sobre a conveniência e segurança dos pagamentos sem contacto,
+oferecendo incentivos para primeiras utilizações e reduzindo as barreiras psicológicas
+à adoção. Este é um exemplo de estratégia primária que transformou uma tecnologia
+de nicho numa prática mainstream.
+4. Chega no mercado político português - O professor citou o exemplo do partido
+Chega que, em vez de focar exclusivamente na captação de eleitores de outros par-
+tidos, conseguiu mobilizar eleitores anteriormente abstencionistas através de uma
+mensagem disruptiva.
+"De onde é que veio no essencial aquele resultado? De procura latente, de
+uma mensagem nova dirigida à procura latente, com uma brilhante estratégia
+primária."
+5.10.2
+Exemplos de Estratégias Secundárias
+Como contraponto, o professor destacou exemplos clássicos de estratégias secundárias:
+Américo Dias
+81
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+1. Coca-Cola vs. Pepsi - Este é o exemplo paradigmático de estratégia secundária,
+onde duas empresas competem intensamente por quota num mercado amplamente
+maduro. As campanhas publicitárias, promoções e inovações de produto de uma
+marca visam diretamente captar consumidores da concorrente.
+2. Supermercados em Portugal - O professor explicou como o mercado de retalho
+alimentar em Portugal opera quase exclusivamente sob lógica de estratégias secun-
+dárias, onde Continente, Pingo Doce, Lidl e outros competem por clientes que já
+fazem compras em supermercados.
+"O mercado real, que é o mercado dos hipermercados e dos supermercados, já
+é igual ao mercado potencial total. Portanto, todo o Continente luta contra
+concluir a existência de mercados secundários."
+3. Campanhas de troca de marca - O professor mencionou campanhas onde se
+oferece desconto ou outro benefício explicitamente condicionado à troca de marca
+(ex: "Traga o seu telemóvel da marca X e receba um desconto para a compra da
+nossa marca Y"). Estas são estratégias secundárias puras, pois visam diretamente
+a captação de clientes da concorrência.
+4. Competição entre operadoras de telecomunicações - As operadoras em mer-
+cados saturados como Portugal competem agressivamente pelas mesmas contas,
+oferecendo incentivos para a portabilidade de número ou para quebrar contratos
+existentes com a concorrência.
+5.10.3
+O Desafio do Equilíbrio entre Estratégias
+O professor utilizou o exemplo do mercado político para ilustrar a coexistência das duas
+estratégias, demonstrando como partidos políticos podem simultaneamente tentar conver-
+ter abstencionistas (estratégia primária) e captar eleitores de outros partidos (estratégia
+secundária):
+"Na política, para além de o PS tentar roubar um voto ao PSD e o PSD tentar
+roubar um voto ao Chega, há muita gente em procura latente, que é aqueles que
+não vão votar. É a abstenção. E há os indecisos, que estão aqui também."
+Ele explicou como, em mercados maduros como o supermercado em Portugal, pratica-
+mente toda a procura potencial já foi convertida em procura real, fazendo com que as
+empresas como Continente, Pingo Doce e Mercadona estejam predominantemente envol-
+vidas em estratégias secundárias, lutando por quota de mercado entre si.
+O professor destacou que o momento de transição entre o foco em estratégias primárias e
+secundárias é crítico e frequentemente mal gerido:
+"O balanço entre captar a estratégia primária e defender já, preparar a batalha
+futura das secundárias, é um balanço estratégico muito relevante."
+Foi enfatizado que as empresas frequentemente reagem cedo demais à concorrência, pas-
+sando prematuramente para estratégias secundárias quando ainda há potencial significa-
+tivo para estratégias primárias. Esta transição precoce pode limitar o crescimento total
+Américo Dias
+82
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+do mercado e levar a uma competição mais intensa por uma "fatia"menor do que seria
+possível se mais investimento fosse dedicado a converter procura latente em procura real.
+O caso da Dodot foi novamente referido para ilustrar que mesmo empresas com grande
+quota de mercado (60-70primárias para expandir o mercado total, em vez de focar exclu-
+sivamente na defesa da sua quota contra concorrentes:
+"O que é que lhe faz mais sentido? Continuar a fazer mais uns que vêm de fora
+e que ficam nelas, ou estar a defender os que têm, começar a fazer diferenciação
+e gastar dinheiro num jogo de soma nula. Porque cada mais um que ela faz é um
+menos um do outro."
+O professor concluiu esta secção observando que, idealmente, as empresas devem man-
+ter algum investimento em estratégias primárias mesmo quando já estão envolvidas em
+competição secundária, especialmente em mercados que ainda possuem procura latente
+significativa.
+5.11
+Revisão e Conclusão
+Na parte final da aula, o professor fez uma revisão dos conceitos-chave apresentados e
+ofereceu orientações sobre o formato do exame e a preparação dos Key Learning Points.
+5.11.1
+Key Learning Points
+Os Key Learning Points foram descritos como registros pessoais de aprendizagem, úteis
+tanto para a revisão quanto para a preparação para o exame:
+"Os Key Learning Points são para vosso uso e benefício, não são para o meu uso
+nem para o meu benefício. São um registro feito por cada um de vocês, com o
+vosso próprio estilo, daquilo que aconteceu nas sessões."
+O professor enfatizou a liberdade de formato, recomendando apenas a submissão em um
+único arquivo PDF por questões práticas.
+5.11.2
+Estrutura do Exame
+O professor explicou que o exame incluiria três tipos de perguntas, com diferentes níveis
+de dificuldade:
+1. Perguntas Explícitas - Descritas como "perguntas pás-pum", onde a tarefa é muito
+clara e a palavra-chave está explícita na pergunta.
+2. Perguntas Descritivas - Perguntas onde a tarefa é complexa, mas a palavra-chave
+ainda está presente na pergunta.
+3. Perguntas Dedutivas - As mais desafiadoras, com tarefas complexas e palavras-
+chave "escondidas"ou implícitas.
+Américo Dias
+83
+4 de março de 2025
+
+Porto Business School
+Estratégia
+eMBA 2024/2025
+"O exame é um combate entre vocês e eu. O que vocês têm de fazer é dizer assim,
+o que é que aquele malandro deu aqui na pergunta, o que é que o gajo quer?"
+Para responder eficazmente às perguntas do exame, o professor recomendou uma aborda-
+gem estruturada:
+1. Identificar as palavras-chave na pergunta
+2. Identificar e combinar as ferramentas estratégicas relevantes
+3. Expandir a aplicação dessas ferramentas ao contexto específico
+4. Explicar a própria opinião fundamentada nas ferramentas identificadas
+"Não se deixem enganar, daquela ferramenta toda, tudo é crítico, mas o mais
+importante é o último E. EXPLAIN."
+5.12
+Reflexões Finais
+O professor encerrou a aula com algumas reflexões pessoais sobre a importância do pen-
+samento estratégico e da abordagem adotada no curso:
+"Eu brinco e procuro brincar porque dar aulas de 5 horas numa sexta-feira à
+tarde, sem brincadeira, isto fica uma coisa absolutamente insuportável para mim,
+admito-lhe também para vocês."
+Enfatizou também a natureza interativa do processo de ensino e aprendizagem:
+"Eu dou aulas porque gosto, é a minha paixão. E dar aulas é um ato interativo e,
+se não houver participação da audiência, isto não tem graça nenhuma."
+A aula encerrou com uma mensagem inspiradora:
+"Tenham sucesso, tenham felicidade, sobretudo, encontrem o que procuram, mesmo
+que não saibam o que é que andam a procurar."
+Esta quinta aula estabeleceu importantes conexões entre os conceitos estratégicos abor-
+dados anteriormente e as dimensões internacionais, de inovação e de desenvolvimento
+corporativo, oferecendo um quadro mais completo para a formulação e implementação de
+estratégias empresariais eficazes em ambientes competitivos complexos e dinâmicos.
+Américo Dias
+84
+4 de março de 2025

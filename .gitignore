@@ -1,0 +1,22 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+screenshots/
+respostas/
+*.log
+
+# Autoresearch demos (not part of strategy agent)
+website/
+game/
+research/
+logo/
+house3d/
+speed/
+demo.sh
+
+# Qdrant temp files
+vector_db/.lock
+.DS_Store
+*.zip
+users.json
