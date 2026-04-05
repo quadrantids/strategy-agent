@@ -56,3 +56,17 @@ Switch models in the UI dropdown:
 3. Wait for the answer to stream + fact-check
 4. Click "Copy answer" to paste into your exam
 5. Use follow-up questions: "expand the VRIN section" or "add more detail on Porter+"
+
+---
+
+## Team — Group S2G1
+
+**Executive MBA 2025/2026 — Porto Business School**
+**Strategy — Professor Luís Filipe Reis**
+
+- José Eduardo Almeida
+- José Paulo Malheiro
+- Luís Filipe Gonçalves
+- Ricardo José Rocha
+- Sónia Maria Dias
+- Teresa Ribeiro Torres
